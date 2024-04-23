@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js +
+  - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code \*
   - Event loop phases +
@@ -20,18 +20,18 @@
   - Dependencies: `npm`, `node_modules` \*
   - Files `package.json`, `package-lock.json` \*
   - Module-based permissions model
-  - Isolation with modularity \*
+  - Isolation with modularity \: 🖐️ used
   - Dependency injection
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments \*
-  - Node.js CLI \*
+  - Command line arguments \: 🖐️ used
+  - Node.js CLI \: 🖐️ used
   - Process-based permissions
   - Graceful shutdown \*
   - Clustering
-  - Watch filesystem changes with --watch ~
+  - Watch filesystem changes with --watch: 👂 heard
 - Internal API
   - Streams API +
   - Web Streams API \*
@@ -60,31 +60,31 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling \*
+  - Endpoint throttling \: 🖐️ used
   - ALPN
   - SNI callback
   - SSL certificates \*
   - Protocol agnostic approach \*
   - Fetch API \*
   - IncomingMessage
-  - HTTP(S) \*
-  - TCP/SSL \*
-  - UDP \*
-  - TLS \*
-  - Websocket +
+  - HTTP(S) \: 🖐️ used
+  - TCP/SSL \: 🖐️ used
+  - UDP \: 🖐️ used
+  - TLS \: 🖐️ used
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST \*
   - RPC
-  - Routing \*
+  - Routing \: 🖐️ used
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS \*
-  - SQL injection \*
+  - DNS \: 🖐️ used
+  - SQL injection \: 🖐️ used
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -98,16 +98,16 @@
   - Writable
   - Transform
   - Back pressure
-  - Buffer \*
+  - Buffer \: 🖐️ used
   - Console
   - Inspector
 - Data access
   - Data access layer
-  - Repository \*
+  - Repository \: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD \*
+  - CRUD \: 🖐️ used
   - DTO
 - Error handling and debugging
   - `Error` \*
