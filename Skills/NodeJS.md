@@ -3,7 +3,7 @@
 - Internals and concepts
   - Strong and weak sides of node.js +
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
+  - Nonblocking I/O and blocking code \*
   - Event loop phases +
   - Event loop microtasks and macrotasks +
   - Garbage collection +
@@ -11,13 +11,13 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules +
-  - ECMAScript modules +
-  - Module `node:module` +
-  - Caching in CJS and ESM
-  - Modules as singletons
+  - CommonJS modules \*
+  - ECMAScript modules \*
+  - Module `node:module` \*
+  - Caching in CJS and ESM \*
+  - Modules as singletons +
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
+  - Dependencies: `npm`, `node_modules` \*
   - Files `package.json`, `package-lock.json` \*
   - Module-based permissions model
   - Isolation with modularity \*
@@ -29,20 +29,20 @@
   - Command line arguments \*
   - Node.js CLI \*
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown \*
   - Clustering
   - Watch filesystem changes with --watch ~
 - Internal API
-  - Streams API
-  - Web Streams API
+  - Streams API +
+  - Web Streams API \*
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async)
+  - File system API (sync and async) +
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici +
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -65,7 +65,7 @@
   - SNI callback
   - SSL certificates \*
   - Protocol agnostic approach \*
-  - Fetch API
+  - Fetch API \*
   - IncomingMessage
   - HTTP(S) \*
   - TCP/SSL \*
@@ -75,7 +75,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST +
+  - REST \*
   - RPC
   - Routing \*
   - DoS
@@ -89,11 +89,11 @@
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
+  - Native test runner +
   - Logging
-  - Application configuring
-  - Testing +
-  - CI/CD +
+  - Application configuring \*
+  - Testing "
+  - CI/CD "
   - Readable
   - Writable
   - Transform
@@ -110,12 +110,12 @@
   - CRUD \*
   - DTO
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
+  - `Error` \*
+  - `error.cause` ~
+  - `error.code` \*
+  - `error.message` \*
+  - `error.stack` +
+  - `Error.captureStackTrace` +
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump

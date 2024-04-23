@@ -83,7 +83,7 @@
   - DB2
   - SQLite ~
   - DynamoDB
-  - Firebase ~
+  - Firebase +
 - Data engineering
   - Data warehousing
   - Business intelligence
@@ -92,3 +92,5 @@
   - AI tools
   - Cloud databases +
   - Data Visualization
+  - Postman "
+  - Swagger "

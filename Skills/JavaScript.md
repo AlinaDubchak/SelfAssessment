@@ -110,7 +110,7 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise` +
-  - `console`
+  - `console`+
   - Timers +
 - Infrastructure
   - V8

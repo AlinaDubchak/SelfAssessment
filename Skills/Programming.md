@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
+  - Model +
+  - Modeling +
+  - Subject domain +
   - Algorithm \*
   - Syntax \*
   - Semantics +
@@ -68,9 +68,9 @@
 - Types
   - Primitive types \*
   - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
+  - Type systems \*
+  - Strong typing +
+  - Weak typing +
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization +
-  - Debugger
+  - Debugger +
   - Tracing
   - Garbage collection +
   - Refactoring \*
   - Code review \*
   - Exception +
   - Unittesting +
-  - git \*
-  - Github \*
+  - git "
+  - Github "
   - Docker \*
   - Kubernetes
   - GCC

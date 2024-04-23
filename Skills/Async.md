@@ -25,7 +25,7 @@
   - Callbacks +
   - Callback-last-error-first
   - Thenable
-  - Promise
+  - Promise +
   - Async/await +
   - Future
   - Deferred
