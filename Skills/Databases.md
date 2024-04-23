@@ -83,7 +83,7 @@
   - DB2
   - SQLite: 👂 heard
   - DynamoDB
-  - Firebase +
+  - Firebase: 🎓 known
 - Data engineering
   - Data warehousing
   - Business intelligence
@@ -92,5 +92,5 @@
   - AI tools
   - Cloud databases: 🎓 known
   - Data Visualization
-  - Postman "
-  - Swagger "
+  - Postman: 📢 talked
+  - Swagger: 📢 talked

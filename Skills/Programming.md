@@ -1,25 +1,25 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model +
-  - Modeling +
-  - Subject domain +
-  - Algorithm \*
-  - Syntax \*
-  - Semantics +
-  - Abstraction +
-  - Paradigm \*
-  - Programm \*
-  - Programming paradigm \*
-  - Programming language \*
-  - Contract +
-  - Module \*
-  - Library \*
-  - Package \*
-  - Component \*
-  - Framework \*
-  - Platform \*
-  - Source code \*
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
+  - Algorithm \: 🖐️ used
+  - Syntax \: 🖐️ used
+  - Semantics: 🎓 known
+  - Abstraction: 🎓 known
+  - Paradigm \: 🖐️ used
+  - Programm \: 🖐️ used
+  - Programming paradigm \: 🖐️ used
+  - Programming language \: 🖐️ used
+  - Contract: 🎓 known
+  - Module \: 🖐️ used
+  - Library \: 🖐️ used
+  - Package \: 🖐️ used
+  - Component \: 🖐️ used
+  - Framework \: 🖐️ used
+  - Platform \: 🖐️ used
+  - Source code \: 🖐️ used
   - Object code
   - Machine code \: 🖐️ used
   - Microcode: 🎓 known
@@ -68,9 +68,9 @@
 - Types
   - Primitive types \: 🖐️ used
   - Reference types
-  - Type systems \*
-  - Strong typing +
-  - Weak typing +
+  - Type systems \: 🖐️ used
+  - Strong typing: 🎓 known
+  - Weak typing: 🎓 known
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -156,17 +156,17 @@
   - Virtual machine \: 🖐️ used
   - Register-based VM
   - Stack-based VM
-  - Containerization +
-  - Debugger +
+  - Containerization: 🎓 known
+  - Debugger: 🎓 known
   - Tracing
-  - Garbage collection +
-  - Refactoring \*
-  - Code review \*
-  - Exception +
-  - Unittesting +
-  - git "
-  - Github "
-  - Docker \*
+  - Garbage collection: 🎓 known
+  - Refactoring \: 🖐️ used
+  - Code review \: 🖐️ used
+  - Exception: 🎓 known
+  - Unittesting: 🎓 known
+  - git: 📢 talked
+  - Github: 📢 talked
+  - Docker \: 🖐️ used
   - Kubernetes
   - GCC
   - LLVM

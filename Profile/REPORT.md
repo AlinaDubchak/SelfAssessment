@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-336 / 628 / 730-009933?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-366 / 668 / 730-009933?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-336 / 628 / 730-009933?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-366 / 668 / 730-009933?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-336 / 628 / 730-009933?style=flat-square"></a>
+<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-366 / 668 / 730-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -15,13 +15,13 @@
 | Unit | Marked | Of |
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `24` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `27` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `23` | `33` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Types | `1` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Types | `4` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `19` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `25` | `26` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Networking | `7` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `15` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `16` | `28` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `17` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `7` | `13` |
@@ -31,24 +31,24 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `9` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `8` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `9` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `4` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `3` | `20` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `7` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `8` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `0` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `1` | `11` |
 | &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `4` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `0` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `4` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `5` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `3` | `6` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `0` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Network | `12` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `3` | `12` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `5` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `8` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `4` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `4` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network | `13` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `5` | `12` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data access | `2` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `0` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `6` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `13` | `25` |
@@ -58,8 +58,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `9` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `2` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `6` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `2` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `7` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `4` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `0` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
@@ -120,7 +120,7 @@
 | `Error` | 🎓 known | ⟶  | 🖐️ used |
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| `console` | 🤷 unknown | ⟶  | 🖐️ used |
+| `console` | 🎓 known | ⟶  | 🖐️ used |
 | Timers | 🎓 known | ⟶  | 🖐️ used |
 | V8 | 🤷 unknown | ⟶  | 👂 heard |
 | prettier | 🤷 unknown | ⟶  | 🎓 known |
@@ -213,7 +213,7 @@ Total: you have `15` of `72` skills, `57` to be upgraded, and `4` above needed
 | `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 | `Promise` | 🎓 known | ⟶  | 🖐️ used |
-| `console` | 🤷 unknown | ⟶  | 🖐️ used |
+| `console` | 🎓 known | ⟶  | 🖐️ used |
 | Timers | 🎓 known | ⟶  | 🖐️ used |
 | V8 | 🤷 unknown | ⟶  | 🖐️ used |
 | Node.js | 🤷 unknown | ⟶  | 👂 heard |
@@ -235,7 +235,7 @@ Total: you have `7` of `97` skills, `90` to be upgraded, and `1` above needed
 | Process | 🤷 unknown | ⟶  | 👂 heard |
 | Callbacks | 🎓 known | ⟶  | 🖐️ used |
 | Callback-last-error-first | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise | 🤷 unknown | ⟶  | 🖐️ used |
+| Promise | 🎓 known | ⟶  | 🖐️ used |
 | Async/await | 🎓 known | ⟶  | 🖐️ used |
 | Sync generator | 👂 heard | ⟶  | 🎓 known |
 | Async Generator | 👂 heard | ⟶  | 🎓 known |
@@ -282,7 +282,7 @@ Total: you have `3` of `50` skills, `47` to be upgraded, and `0` above needed
 | `try..catch` | 🎓 known | ⟶  | 🖐️ used |
 | Callbacks | 🎓 known | ⟶  | 🖐️ used |
 | Callback-last-error-first | 🤷 unknown | ⟶  | 👂 heard |
-| Promise | 🤷 unknown | ⟶  | 🖐️ used |
+| Promise | 🎓 known | ⟶  | 🖐️ used |
 | Async/await | 🎓 known | ⟶  | 🖐️ used |
 | Async Iterator | 👂 heard | ⟶  | 🎓 known |
 | Event | 🤷 unknown | ⟶  | 🖐️ used |
@@ -335,7 +335,7 @@ Total: you have `4` of `37` skills, `33` to be upgraded, and `1` above needed
 | Callbacks | 🎓 known | ⟶  | 🖐️ used |
 | Callback-last-error-first | 🤷 unknown | ⟶  | 🖐️ used |
 | Thenable | 🤷 unknown | ⟶  | 🖐️ used |
-| Promise | 🤷 unknown | ⟶  | 🖐️ used |
+| Promise | 🎓 known | ⟶  | 🖐️ used |
 | Async/await | 🎓 known | ⟶  | 🖐️ used |
 | Future | 🤷 unknown | ⟶  | 👂 heard |
 | Deferred | 🤷 unknown | ⟶  | 👂 heard |
@@ -400,12 +400,12 @@ Total: you have `1` of `75` skills, `74` to be upgraded, and `0` above needed
 | API and domain logic developer | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `7` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `9` above needed
 
 | Enterprise applications | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `8` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `10` above needed
 
 | Real-Time, gamedev, messaging | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -415,14 +415,14 @@ Total: you have `0` of `0` skills, `0` to be upgraded, and `9` above needed
 | Web and Frontend | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `7` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `6` above needed
 
 | Fullstack development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `7` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `8` above needed
 
 | Platform/system development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `12` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `13` above needed

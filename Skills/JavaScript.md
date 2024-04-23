@@ -109,9 +109,9 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` +
-  - `console`+
-  - Timers +
+  - `Promise`: 🎓 known
+  - `console`: 🎓 known
+  - Timers: 🎓 known
 - Infrastructure
   - V8
   - Node.js \: 🖐️ used

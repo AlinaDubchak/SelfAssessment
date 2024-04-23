@@ -3,22 +3,22 @@
 - Internals and concepts
   - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code \*
-  - Event loop phases +
-  - Event loop microtasks and macrotasks +
-  - Garbage collection +
+  - Nonblocking I/O and blocking code \: 🖐️ used
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules \*
-  - ECMAScript modules \*
-  - Module `node:module` \*
-  - Caching in CJS and ESM \*
-  - Modules as singletons +
+  - CommonJS modules \: 🖐️ used
+  - ECMAScript modules \: 🖐️ used
+  - Module `node:module` \: 🖐️ used
+  - Caching in CJS and ESM \: 🖐️ used
+  - Modules as singletons: 🎓 known
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` \*
-  - Files `package.json`, `package-lock.json` \*
+  - Dependencies: `npm`, `node_modules` \: 🖐️ used
+  - Files `package.json`, `package-lock.json` \: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity \: 🖐️ used
   - Dependency injection
@@ -29,20 +29,20 @@
   - Command line arguments \: 🖐️ used
   - Node.js CLI \: 🖐️ used
   - Process-based permissions
-  - Graceful shutdown \*
+  - Graceful shutdown \: 🖐️ used
   - Clustering
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API +
-  - Web Streams API \*
+  - Streams API: 🎓 known
+  - Web Streams API \: 🖐️ used
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async) +
+  - File system API (sync and async): 🎓 known
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici +
+  - Native fetch and nodejs/undici: 🎓 known
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -63,9 +63,9 @@
   - Endpoint throttling \: 🖐️ used
   - ALPN
   - SNI callback
-  - SSL certificates \*
-  - Protocol agnostic approach \*
-  - Fetch API \*
+  - SSL certificates \: 🖐️ used
+  - Protocol agnostic approach \: 🖐️ used
+  - Fetch API \: 🖐️ used
   - IncomingMessage
   - HTTP(S) \: 🖐️ used
   - TCP/SSL \: 🖐️ used
@@ -75,7 +75,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST \*
+  - REST \: 🖐️ used
   - RPC
   - Routing \: 🖐️ used
   - DoS
@@ -89,11 +89,11 @@
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner +
+  - Native test runner: 🎓 known
   - Logging
-  - Application configuring \*
-  - Testing "
-  - CI/CD "
+  - Application configuring \: 🖐️ used
+  - Testing: 📢 talked
+  - CI/CD: 📢 talked
   - Readable
   - Writable
   - Transform
@@ -110,12 +110,12 @@
   - CRUD \: 🖐️ used
   - DTO
 - Error handling and debugging
-  - `Error` \*
-  - `error.cause` ~
-  - `error.code` \*
-  - `error.message` \*
-  - `error.stack` +
-  - `Error.captureStackTrace` +
+  - `Error` \: 🖐️ used
+  - `error.cause`: 👂 heard
+  - `error.code` \: 🖐️ used
+  - `error.message` \: 🖐️ used
+  - `error.stack`: 🎓 known
+  - `Error.captureStackTrace`: 🎓 known
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
