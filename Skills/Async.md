@@ -25,7 +25,7 @@
   - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise
+  - Promise: 🎓 known
   - Async/await: 🎓 known
   - Future
   - Deferred

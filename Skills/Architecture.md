@@ -47,7 +47,7 @@
   - IDEF1X
   - UML \: 🖐️ used
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation \: 🖐️ used
   - Distributed systems
   - High-intensive computing
   - Load balancing
@@ -64,10 +64,10 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design: 🎓 known
   - Process modelling
   - Data modelling
-  - Solution components
+  - Solution components: 🎓 known
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds: 🎓 known

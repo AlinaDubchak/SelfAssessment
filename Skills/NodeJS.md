@@ -3,7 +3,7 @@
 - Internals and concepts
   - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
+  - Nonblocking I/O and blocking code \: 🖐️ used
   - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🎓 known
   - Garbage collection: 🎓 known
@@ -11,13 +11,13 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 🎓 known
-  - ECMAScript modules: 🎓 known
-  - Module `node:module`: 🎓 known
-  - Caching in CJS and ESM
-  - Modules as singletons
+  - CommonJS modules \: 🖐️ used
+  - ECMAScript modules \: 🖐️ used
+  - Module `node:module` \: 🖐️ used
+  - Caching in CJS and ESM \: 🖐️ used
+  - Modules as singletons: 🎓 known
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
+  - Dependencies: `npm`, `node_modules` \: 🖐️ used
   - Files `package.json`, `package-lock.json` \: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity \: 🖐️ used
@@ -29,20 +29,20 @@
   - Command line arguments \: 🖐️ used
   - Node.js CLI \: 🖐️ used
   - Process-based permissions
-  - Graceful shutdown
+  - Graceful shutdown \: 🖐️ used
   - Clustering
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API
-  - Web Streams API
+  - Streams API: 🎓 known
+  - Web Streams API \: 🖐️ used
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async)
+  - File system API (sync and async): 🎓 known
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici: 🎓 known
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -65,7 +65,7 @@
   - SNI callback
   - SSL certificates \: 🖐️ used
   - Protocol agnostic approach \: 🖐️ used
-  - Fetch API
+  - Fetch API \: 🖐️ used
   - IncomingMessage
   - HTTP(S) \: 🖐️ used
   - TCP/SSL \: 🖐️ used
@@ -75,7 +75,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST: 🎓 known
+  - REST \: 🖐️ used
   - RPC
   - Routing \: 🖐️ used
   - DoS
@@ -89,11 +89,11 @@
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner
+  - Native test runner: 🎓 known
   - Logging
-  - Application configuring
-  - Testing: 🎓 known
-  - CI/CD: 🎓 known
+  - Application configuring \: 🖐️ used
+  - Testing: 📢 talked
+  - CI/CD: 📢 talked
   - Readable
   - Writable
   - Transform
@@ -110,12 +110,12 @@
   - CRUD \: 🖐️ used
   - DTO
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
-  - `error.code`
-  - `error.message`
-  - `error.stack`
-  - `Error.captureStackTrace`
+  - `Error` \: 🖐️ used
+  - `error.cause`: 👂 heard
+  - `error.code` \: 🖐️ used
+  - `error.message` \: 🖐️ used
+  - `error.stack`: 🎓 known
+  - `Error.captureStackTrace`: 🎓 known
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
