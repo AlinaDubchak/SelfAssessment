@@ -59,14 +59,14 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case \*
+  - Camel case \: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas \*
   - Return early
   - Fail-fast
 - Types
-  - Primitive types \*
+  - Primitive types \: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
@@ -217,8 +217,8 @@
   - Linux \*
   - Unix
   - BSD
-  - MacOS +
-  - Windows \*
+  - MacOS: 🎓 known
+  - Windows \: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
