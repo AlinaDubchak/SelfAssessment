@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `Object` \*
+  - `Function` \*
+  - `Boolean` \*
+  - `Number` \*
+  - `BigInt` +
+  - `String` \*
+  - `Symbol` +
+  - `Infinity` +
+  - `NaN` +
+  - `undefined` \*
+  - `null` \*
+  - `this` \*
+  - `instanceof` +
+  - `...spread` \*
+  - `...rest` \*
+  - `typeof` \*
   - Destructuring
   - Generators
   - Iterators
@@ -31,17 +31,17 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - `prototype` \*
+  - Equality operators \*
+  - Logical operators \*
+  - Logical Assignment \*
+  - Bitwise operators \*
+  - Ternary operator \*
   - `void`
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode \*
   - Hoisting
   - `delete`
   - `in`
@@ -59,12 +59,12 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` \*
+  - `while` \*
+  - `do..while` \*
+  - `for` \*
+  - `for..in` \*
+  - `for..of` \*
   - `for await`
   - `throw`
   - `break`
@@ -79,18 +79,18 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function \*
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration \*
+  - Function expression \*
+  - Default parameters \*
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` \*
 - Data structures
-  - `Array`
+  - `Array` \*
   - `Map`
   - `Set`
   - Weak collections
@@ -115,7 +115,7 @@
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm \*
   - prettier
   - MDN
   - TC39

@@ -4,8 +4,8 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm \*
+  - Syntax \*
   - Semantics
   - Abstraction
   - Paradigm
@@ -14,10 +14,10 @@
   - Programming language
   - Contract
   - Module
-  - Library
+  - Library \*
   - Package
   - Component
-  - Framework
+  - Framework +
   - Platform
   - Source code
   - Object code
@@ -32,41 +32,41 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
+  - Value \*
+  - Identifier \*
+  - Variable \*
+  - Constant \*
+  - Scalar +
+  - Literal \*
+  - Expression \*
+  - Heap +
+  - Function \*
+  - Procedure +
+  - Method +
+  - Class \*
+  - Prototype +
+  - Event +
   - Type
-  - Flag
+  - Flag \*
   - Lexical scope
-  - Code block
+  - Code block \*
   - Conditions
-  - Loops
+  - Loops \*
   - Assignment
-  - Regular expression
+  - Regular expression \*
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case \*
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types \*
   - Reference types
   - Type systems
   - Strong typing
@@ -85,7 +85,7 @@
   - Argument
   - Parameter
   - Pure function
-  - Lambda expression
+  - Lambda expression +
   - Side effects
   - Closure
   - Partial application
@@ -93,42 +93,42 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback +
   - Listener
   - Composition
   - Pipe
   - Memoize
-  - Wrapper
+  - Wrapper +
   - Functor
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array \*
   - Structure
   - Record
   - Enum
-  - Instance
-  - Object
-  - Collection
+  - Instance ~
+  - Object \*
+  - Collection ~
   - Set
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue ~
+  - Stack +
   - Deque
-  - Tree
-  - Graph
+  - Tree \*
+  - Graph \*
   - Iterator
-  - Mutable state
-  - Immutable state
+  - Mutable state ~
+  - Immutable state ~
   - Serialization
-  - String parsing
-  - JSON
+  - String parsing ~
+  - JSON +
   - JSON5
   - YAML
 - Networking
@@ -164,26 +164,26 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git \*
+  - Github \*
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers \*
+  - Hard code \*
+  - Soft code \*
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti \*
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code \*
+  - Unreachable code \*
+  - Duplicate code \*
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers \*
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux ~
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS +
+  - Windows \*
   - Real-time OS
   - Embedded OS
 - Standards
