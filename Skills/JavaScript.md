@@ -1,121 +1,121 @@
 ## JavaScript
 
 - Language
-  - `Object` \: 🖐️ used
-  - `Function` \: 🖐️ used
-  - `Boolean` \: 🖐️ used
-  - `Number` \: 🖐️ used
-  - `BigInt`: 🎓 known
-  - `String` \: 🖐️ used
-  - `Symbol`: 🎓 known
-  - `Infinity`: 🎓 known
-  - `NaN`: 🎓 known
-  - `undefined` \: 🖐️ used
-  - `null` \: 🖐️ used
-  - `this` \: 🖐️ used
-  - `instanceof`: 🎓 known
-  - `...spread` \: 🖐️ used
-  - `...rest` \: 🖐️ used
-  - `typeof` \: 🖐️ used
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
+  - `Object` \*
+  - `Function` \*
+  - `Boolean` \*
+  - `Number` \*
+  - `BigInt` +
+  - `String` \*
+  - `Symbol` +
+  - `Infinity` +
+  - `NaN` +
+  - `undefined` \*
+  - `null` \*
+  - `this` \*
+  - `instanceof` +
+  - `...spread` \*
+  - `...rest` \*
+  - `typeof` \*
+  - Destructuring \*
+  - Generators ~
+  - Iterators ~
+  - Async generator ~
+  - Async iterator ~
+  - Chaining +
+  - Optional chaining ~
   - IIFE
   - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
+  - `global` +
+  - `globalThis` ~
+  - `window` \*
   - Getters and setters
-  - `__proto__`
-  - `prototype` \: 🖐️ used
-  - Equality operators \: 🖐️ used
-  - Logical operators \: 🖐️ used
-  - Logical Assignment \: 🖐️ used
-  - Bitwise operators \: 🖐️ used
-  - Ternary operator \: 🖐️ used
-  - `void`
-  - `yield`
-  - `await`
+  - `__proto__` +
+  - `prototype` \*
+  - Equality operators \*
+  - Logical operators \*
+  - Logical Assignment \*
+  - Bitwise operators \*
+  - Ternary operator \*
+  - `void` \*
+  - `yield` ~
+  - `await` +
   - Template literal
-  - Strict mode \: 🖐️ used
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
+  - Strict mode \*
+  - Hoisting +
+  - `delete` +
+  - `in` +
+  - `super` +
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static` +
+  - `Number.parseInt` +
+  - `Number.parseFloat` +
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields \*
+  - Static class fields \*
+  - Private class fields \*
+  - Private class methods \*
 - Statements
-  - `if` \: 🖐️ used
-  - `while` \: 🖐️ used
-  - `do..while` \: 🖐️ used
-  - `for` \: 🖐️ used
-  - `for..in` \: 🖐️ used
-  - `for..of` \: 🖐️ used
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `if` \*
+  - `while` \*
+  - `do..while` \*
+  - `for` \*
+  - `for..in` \*
+  - `for..of` \*
+  - `for await` \*
+  - `throw` \*
+  - `break` \*
+  - `continue` \*
+  - `import` \*
+  - `export` \*
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `try..catch` \*
+  - `switch` \*
+  - `class` \*
+  - `extends` \*
+  - `with` +
+  - `new` \*
 - Functions
-  - Arrow function \: 🖐️ used
-  - Async function
-  - Function declaration \: 🖐️ used
-  - Function expression \: 🖐️ used
-  - Default parameters \: 🖐️ used
+  - Arrow function \*
+  - Async function \*
+  - Function declaration \*
+  - Function expression \*
+  - Default parameters \*
   - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
-  - `return` \: 🖐️ used
+  - `Function.prototype.call` +
+  - `Function.prototype.bind` +
+  - `Function.prototype.apply` +
+  - `return` \*
 - Data structures
-  - `Array` \: 🖐️ used
-  - `Map`
-  - `Set`
-  - Weak collections
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - `Array` \*
+  - `Map` \*
+  - `Set` +
+  - Weak collections +
+  - Typed arrays +
+  - Mixins ~
+  - `Object.assign` +
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `Proxy` +
+  - `RegExp` +
+  - `Date` \*
+  - `Math` \*
   - `Reflect`
-  - `Error`
+  - `Error`+
   - `Atomics`
-  - `JSON`
+  - `JSON` \*
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` +
   - `console`
-  - Timers
+  - Timers +
 - Infrastructure
   - V8
-  - Node.js
-  - npm \: 🖐️ used
-  - prettier
-  - MDN
+  - Node.js \*
+  - npm \*
+  - prettier \*
+  - MDN \*
   - TC39

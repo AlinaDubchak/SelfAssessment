@@ -4,56 +4,56 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm \: 🖐️ used
-  - Syntax \: 🖐️ used
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library \: 🖐️ used
-  - Package
-  - Component
-  - Framework: 🎓 known
-  - Platform
-  - Source code
+  - Algorithm \*
+  - Syntax \*
+  - Semantics +
+  - Abstraction +
+  - Paradigm \*
+  - Programm \*
+  - Programming paradigm \*
+  - Programming language \*
+  - Contract +
+  - Module \*
+  - Library \*
+  - Package \*
+  - Component \*
+  - Framework \*
+  - Platform \*
+  - Source code \*
   - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
+  - Machine code \*
+  - Microcode +
+  - Software engineering \*
+  - Decomposition \*
+  - Control flow +
+  - Data flow ~
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Don't repeat yourself (DRY) \*
+  - KISS principle \*
 - Syntax and concepts
-  - Value \: 🖐️ used
-  - Identifier \: 🖐️ used
-  - Variable \: 🖐️ used
-  - Constant \: 🖐️ used
-  - Scalar: 🎓 known
-  - Literal \: 🖐️ used
-  - Expression \: 🖐️ used
-  - Heap: 🎓 known
-  - Function \: 🖐️ used
-  - Procedure: 🎓 known
-  - Method: 🎓 known
-  - Class \: 🖐️ used
-  - Prototype: 🎓 known
-  - Event: 🎓 known
-  - Type
-  - Flag \: 🖐️ used
-  - Lexical scope
-  - Code block \: 🖐️ used
+  - Value \*
+  - Identifier \*
+  - Variable \*
+  - Constant \*
+  - Scalar \*
+  - Literal \*
+  - Expression \*
+  - Heap +
+  - Function \*
+  - Procedure \*
+  - Method \*
+  - Class \*
+  - Prototype +
+  - Event +
+  - Type \*
+  - Flag \*
+  - Lexical scope \*
+  - Code block \*
   - Conditions
-  - Loops \: 🖐️ used
-  - Assignment
-  - Regular expression \: 🖐️ used
+  - Loops \*
+  - Assignment +
+  - Regular expression \*
   - Interface
   - Namespaces
   - Call stack
@@ -62,7 +62,7 @@
   - Camel case \: 🖐️ used
   - Snake case
   - Kebab case
-  - Trailing commas
+  - Trailing commas \*
   - Return early
   - Fail-fast
 - Types
@@ -81,140 +81,140 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression: 🎓 known
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
+  - Signature \*
+  - Argument \*
+  - Parameter \*
+  - Pure function +
+  - Lambda expression +
+  - Side effects +
+  - Closure \*
+  - Partial application +
+  - Currying +
+  - Higher order \*
+  - Recursion \*
   - Tail call optimisation
-  - Callback: 🎓 known
-  - Listener
+  - Callback +
+  - Listener +
   - Composition
-  - Pipe
-  - Memoize
-  - Wrapper: 🎓 known
-  - Functor
-  - Monad
+  - Pipe +
+  - Memoize +
+  - Wrapper +
+  - Functor ~
+  - Monad ~
   - Monoid
-  - Generator
+  - Generator +
   - Coroutine
 - Data structures
-  - Array \: 🖐️ used
-  - Structure
-  - Record
-  - Enum
-  - Instance: 👂 heard
-  - Object \: 🖐️ used
-  - Collection: 👂 heard
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
-  - Unrolled list
-  - Circular list
-  - Queue: 👂 heard
-  - Stack: 🎓 known
-  - Deque
-  - Tree \: 🖐️ used
-  - Graph \: 🖐️ used
-  - Iterator
-  - Mutable state: 👂 heard
-  - Immutable state: 👂 heard
-  - Serialization
-  - String parsing: 👂 heard
-  - JSON: 🎓 known
+  - Array \*
+  - Structure \*
+  - Record ~
+  - Enum ~
+  - Instance ~
+  - Object \*
+  - Collection ~
+  - Set +
+  - Hash table \*
+  - Linked list \*
+  - Doubly list +
+  - Unrolled list +
+  - Circular list \*
+  - Queue +
+  - Stack \*
+  - Deque +
+  - Tree \*
+  - Graph \*
+  - Iterator +
+  - Mutable state +
+  - Immutable state +
+  - Serialization ~
+  - String parsing ~
+  - JSON +
   - JSON5
-  - YAML
+  - YAML ~
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - DNS \*
+  - CDN \*
+  - CORS +
+  - IPv4 \*
+  - IPv6 +
+  - NAT \*
+  - URL \*
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler \*
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
+  - Linter \*
+  - Polyfill ~
+  - Interpreter +
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime +
+  - Virtual machine \*
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization +
   - Debugger
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git \: 🖐️ used
-  - Github \: 🖐️ used
-  - Docker
+  - Garbage collection +
+  - Refactoring \*
+  - Code review \*
+  - Exception +
+  - Unittesting +
+  - git \*
+  - Github \*
+  - Docker \*
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers \: 🖐️ used
-  - Hard code \: 🖐️ used
-  - Soft code \: 🖐️ used
+  - Magic numbers +
+  - Hard code \*
+  - Soft code \*
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti \: 🖐️ used
-  - Silver bullet
-  - Not invented here
-  - Dead code \: 🖐️ used
-  - Unreachable code \: 🖐️ used
-  - Duplicate code \: 🖐️ used
-  - Premature optimization
+  - Spaghetti +
+  - Silver bullet +
+  - Not invented here +
+  - Dead code +
+  - Unreachable code +
+  - Duplicate code \*
+  - Premature optimization +
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Nested loops +
+  - Long method/function/procedure +
+  - Long inheritance +
+  - Large class/file +
+  - Too many parameters +
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case +
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
   - Feature envy
   - Monkey patch
-  - Yo-yo problem
+  - Yo-yo problem ~
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode +
+  - V8 +
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers \: 🖐️ used
+  - Interrupts +
+  - Drivers \*
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux: 👂 heard
+  - Virtual memory \*
+  - File system \*
+  - Linux \*
   - Unix
   - BSD
   - MacOS: 🎓 known
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII +
   - Escape sequence
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 +
+  - ECMA +
   - ICANN
-  - ISO
-  - MIME
+  - ISO +
+  - MIME +
   - OWASP
-  - UTF-8
+  - UTF-8 +
   - W3C
   - ODMG

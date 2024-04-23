@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop ~
+  - `try..catch` +
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -17,28 +17,28 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming +
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks +
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await +
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Sync generator ~
+  - Async Generator ~
+  - Async Iterator ~
   - Event
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream +
   - Chain of responsibility
-  - Middleware
+  - Middleware +
   - Locks
 - Async adapters and utils
   - callbackify
@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter +
   - Observable/Observer
   - Readable
   - Writable
@@ -59,8 +59,8 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
+  - Timers +
+  - `setImmediate` +
   - `nextTick`
   - AbortController
   - AbortSignal
@@ -68,8 +68,8 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell +
+  - Promise hell +
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
