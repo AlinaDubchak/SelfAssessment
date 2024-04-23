@@ -1,37 +1,37 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js +
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Event loop phases +
+  - Event loop microtasks and macrotasks +
+  - Garbage collection +
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules +
+  - ECMAScript modules +
+  - Module `node:module` +
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Files `package.json`, `package-lock.json` \*
   - Module-based permissions model
-  - Isolation with modularity
+  - Isolation with modularity \*
   - Dependency injection
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments \*
+  - Node.js CLI \*
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch ~
 - Internal API
   - Streams API
   - Web Streams API
@@ -60,31 +60,31 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling
+  - Endpoint throttling \*
   - ALPN
   - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
+  - SSL certificates \*
+  - Protocol agnostic approach \*
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) \*
+  - TCP/SSL \*
+  - UDP \*
+  - TLS \*
+  - Websocket +
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST +
   - RPC
-  - Routing
+  - Routing \*
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - SQL injection
+  - DNS \*
+  - SQL injection \*
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -92,22 +92,22 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing +
+  - CI/CD +
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer
+  - Buffer \*
   - Console
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository \*
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD \*
   - DTO
 - Error handling and debugging
   - `Error`

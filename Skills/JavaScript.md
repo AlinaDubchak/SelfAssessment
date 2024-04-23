@@ -17,47 +17,47 @@
   - `...spread` \*
   - `...rest` \*
   - `typeof` \*
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
-  - Optional chaining
+  - Destructuring \*
+  - Generators ~
+  - Iterators ~
+  - Async generator ~
+  - Async iterator ~
+  - Chaining +
+  - Optional chaining ~
   - IIFE
   - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
+  - `global` +
+  - `globalThis` ~
+  - `window` \*
   - Getters and setters
-  - `__proto__`
+  - `__proto__` +
   - `prototype` \*
   - Equality operators \*
   - Logical operators \*
   - Logical Assignment \*
   - Bitwise operators \*
   - Ternary operator \*
-  - `void`
-  - `yield`
-  - `await`
+  - `void` \*
+  - `yield` ~
+  - `await` +
   - Template literal
   - Strict mode \*
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
+  - Hoisting +
+  - `delete` +
+  - `in` +
+  - `super` +
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static` +
+  - `Number.parseInt` +
+  - `Number.parseFloat` +
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Instance class fields \*
+  - Static class fields \*
+  - Private class fields \*
+  - Private class methods \*
 - Statements
   - `if` \*
   - `while` \*
@@ -65,57 +65,57 @@
   - `for` \*
   - `for..in` \*
   - `for..of` \*
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `for await` \*
+  - `throw` \*
+  - `break` \*
+  - `continue` \*
+  - `import` \*
+  - `export` \*
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `try..catch` \*
+  - `switch` \*
+  - `class` \*
+  - `extends` \*
+  - `with` +
+  - `new` \*
 - Functions
   - Arrow function \*
-  - Async function
+  - Async function \*
   - Function declaration \*
   - Function expression \*
   - Default parameters \*
   - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - `Function.prototype.call` +
+  - `Function.prototype.bind` +
+  - `Function.prototype.apply` +
   - `return` \*
 - Data structures
   - `Array` \*
-  - `Map`
-  - `Set`
-  - Weak collections
-  - Typed arrays
-  - Mixins
-  - `Object.assign`
+  - `Map` \*
+  - `Set` +
+  - Weak collections +
+  - Typed arrays +
+  - Mixins ~
+  - `Object.assign` +
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `Proxy` +
+  - `RegExp` +
+  - `Date` \*
+  - `Math` \*
   - `Reflect`
-  - `Error`
+  - `Error`+
   - `Atomics`
-  - `JSON`
+  - `JSON` \*
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` +
   - `console`
-  - Timers
+  - Timers +
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js \*
   - npm \*
-  - prettier
-  - MDN
+  - prettier \*
+  - MDN \*
   - TC39
