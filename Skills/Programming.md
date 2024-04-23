@@ -4,8 +4,8 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm \: 🖐️ used
+  - Syntax \: 🖐️ used
   - Semantics
   - Abstraction
   - Paradigm
@@ -14,10 +14,10 @@
   - Programming language
   - Contract
   - Module
-  - Library
+  - Library \: 🖐️ used
   - Package
   - Component
-  - Framework
+  - Framework: 🎓 known
   - Platform
   - Source code
   - Object code
@@ -32,41 +32,41 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
+  - Value \: 🖐️ used
+  - Identifier \: 🖐️ used
+  - Variable \: 🖐️ used
+  - Constant \: 🖐️ used
+  - Scalar: 🎓 known
+  - Literal \: 🖐️ used
+  - Expression \: 🖐️ used
+  - Heap: 🎓 known
+  - Function \: 🖐️ used
+  - Procedure: 🎓 known
+  - Method: 🎓 known
+  - Class \: 🖐️ used
+  - Prototype: 🎓 known
+  - Event: 🎓 known
   - Type
-  - Flag
+  - Flag \: 🖐️ used
   - Lexical scope
-  - Code block
+  - Code block \: 🖐️ used
   - Conditions
-  - Loops
+  - Loops \: 🖐️ used
   - Assignment
-  - Regular expression
+  - Regular expression \: 🖐️ used
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case \: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types \: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
@@ -85,7 +85,7 @@
   - Argument
   - Parameter
   - Pure function
-  - Lambda expression
+  - Lambda expression: 🎓 known
   - Side effects
   - Closure
   - Partial application
@@ -93,42 +93,42 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback: 🎓 known
   - Listener
   - Composition
   - Pipe
   - Memoize
-  - Wrapper
+  - Wrapper: 🎓 known
   - Functor
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array \: 🖐️ used
   - Structure
   - Record
   - Enum
-  - Instance
-  - Object
-  - Collection
+  - Instance: 👂 heard
+  - Object \: 🖐️ used
+  - Collection: 👂 heard
   - Set
   - Hash table
   - Linked list
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue: 👂 heard
+  - Stack: 🎓 known
   - Deque
-  - Tree
-  - Graph
+  - Tree \: 🖐️ used
+  - Graph \: 🖐️ used
   - Iterator
-  - Mutable state
-  - Immutable state
+  - Mutable state: 👂 heard
+  - Immutable state: 👂 heard
   - Serialization
-  - String parsing
-  - JSON
+  - String parsing: 👂 heard
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
@@ -164,26 +164,26 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git \: 🖐️ used
+  - Github \: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers \: 🖐️ used
+  - Hard code \: 🖐️ used
+  - Soft code \: 🖐️ used
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti \: 🖐️ used
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code \: 🖐️ used
+  - Unreachable code \: 🖐️ used
+  - Duplicate code \: 🖐️ used
   - Premature optimization
   - Micro-optimization
   - Nested loops
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers \: 🖐️ used
   - Kernel
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux: 👂 heard
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 🎓 known
+  - Windows \: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards

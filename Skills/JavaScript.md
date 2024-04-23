@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
-  - `...spread`
-  - `...rest`
-  - `typeof`
+  - `Object` \: 🖐️ used
+  - `Function` \: 🖐️ used
+  - `Boolean` \: 🖐️ used
+  - `Number` \: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String` \: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🎓 known
+  - `NaN`: 🎓 known
+  - `undefined` \: 🖐️ used
+  - `null` \: 🖐️ used
+  - `this` \: 🖐️ used
+  - `instanceof`: 🎓 known
+  - `...spread` \: 🖐️ used
+  - `...rest` \: 🖐️ used
+  - `typeof` \: 🖐️ used
   - Destructuring
   - Generators
   - Iterators
@@ -31,17 +31,17 @@
   - `window`
   - Getters and setters
   - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
+  - `prototype` \: 🖐️ used
+  - Equality operators \: 🖐️ used
+  - Logical operators \: 🖐️ used
+  - Logical Assignment \: 🖐️ used
+  - Bitwise operators \: 🖐️ used
+  - Ternary operator \: 🖐️ used
   - `void`
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode \: 🖐️ used
   - Hoisting
   - `delete`
   - `in`
@@ -59,12 +59,12 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` \: 🖐️ used
+  - `while` \: 🖐️ used
+  - `do..while` \: 🖐️ used
+  - `for` \: 🖐️ used
+  - `for..in` \: 🖐️ used
+  - `for..of` \: 🖐️ used
   - `for await`
   - `throw`
   - `break`
@@ -79,18 +79,18 @@
   - `with`
   - `new`
 - Functions
-  - Arrow function
+  - Arrow function \: 🖐️ used
   - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
+  - Function declaration \: 🖐️ used
+  - Function expression \: 🖐️ used
+  - Default parameters \: 🖐️ used
   - Functional object
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` \: 🖐️ used
 - Data structures
-  - `Array`
+  - `Array` \: 🖐️ used
   - `Map`
   - `Set`
   - Weak collections
@@ -115,7 +115,7 @@
 - Infrastructure
   - V8
   - Node.js
-  - npm
+  - npm \: 🖐️ used
   - prettier
   - MDN
   - TC39
