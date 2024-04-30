@@ -89,8 +89,8 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools +
-  - Cloud databases +
+  - AI tools: 🎓 known
+  - Cloud databases: 🎓 known
   - Data Visualization
   - Postman: 📢 talked
   - Swagger: 📢 talked

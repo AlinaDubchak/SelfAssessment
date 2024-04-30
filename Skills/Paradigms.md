@@ -11,8 +11,8 @@
   - Object-based programming: 🎓 known
   - Generic programming: 🎓 known
   - Concurrent computing
-  - Asynchronous programming +
-  - Parallel programming \*
+  - Asynchronous programming: 🎓 known
+  - Parallel programming \: 🖐️ used
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -47,7 +47,7 @@
   - Instance \: 🖐️ used
   - Introspection: 🎓 known
   - Reflection 6
-  - The diamond problem +
+  - The diamond problem: 🎓 known
 - GRASP
   - Information expert
   - Creator
