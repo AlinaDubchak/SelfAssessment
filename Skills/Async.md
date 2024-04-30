@@ -2,10 +2,10 @@
 
 - Theory
   - Event loop ~
-  - `try..catch` +
+  - `try..catch` \*
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O \*
+  - Thread pool \*
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,32 +14,32 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming +
+  - Dead locks +
+  - Live locks \*
+  - Concurrent programming +
+  - Parallel programming \*
   - Actor Model
-  - Thread
-  - Process
+  - Thread \*
+  - Process \*
 - Async contracts
-  - Callbacks +
+  - Callbacks \*
   - Callback-last-error-first
-  - Thenable
-  - Promise +
-  - Async/await +
+  - Thenable \*
+  - Promise \*
+  - Async/await \*
   - Future
   - Deferred
   - Sync generator ~
   - Async Generator ~
   - Async Iterator ~
-  - Event
+  - Event \*
   - Coroutine
   - Goroutine
   - Signal
-  - Stream +
+  - Stream \*
   - Chain of responsibility
   - Middleware +
-  - Locks
+  - Locks \*
 - Async adapters and utils
   - callbackify
   - promisify
@@ -55,8 +55,8 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore \*
+  - Mutex \*
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers +
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics \*
   - High resolution clock
   - Callback hell +
   - Promise hell +

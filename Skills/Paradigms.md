@@ -12,7 +12,7 @@
   - Generic programming +
   - Concurrent computing
   - Asynchronous programming +
-  - Parallel programming +
+  - Parallel programming \*
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -47,7 +47,7 @@
   - Instance \*
   - Introspection +
   - Reflection 6
-  - The diamond problem ~
+  - The diamond problem +
 - GRASP
   - Information expert
   - Creator
