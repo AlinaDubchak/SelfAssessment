@@ -4,8 +4,8 @@
   - Modularity
   - Components
   - Directories
-  - GRASP ~
-  - SOLID ~
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
@@ -34,7 +34,7 @@
   - Inversion of control (IoC)
   - Dependency injection (DI) \*
   - Clean architecture
-  - Domain-driven design (DDD) ~
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
   - Agent \*
@@ -42,16 +42,16 @@
   - Message Queue (MQ) +
   - CQRS
   - Event sourcing
-  - E-R data modeling \*
-  - Entity-relationship diagram \*
+  - E-R data modeling \: 🖐️ used
+  - Entity-relationship diagram \: 🖐️ used
   - IDEF1X
-  - UML \*
+  - UML \: 🖐️ used
   - Work breakdown structure
   - Budget estimation \*
   - Distributed systems \*
   - High-intensive computing
   - Load balancing
-  - Gateways \*
+  - Gateways \: 🖐️ used
   - On-premises
   - IaaS
   - PaaS
@@ -64,19 +64,19 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design +
+  - System design: 🎓 known
   - Process modelling
   - Data modelling
-  - Solution components +
+  - Solution components: 🎓 known
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds +
+  - Clouds: 🎓 known
   - BPMN
   - Low-code
   - No-code
   - Metric
   - Metric abuse
-  - ACID +
+  - ACID: 🎓 known
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture

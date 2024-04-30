@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter +
+  - EventEmitter: 🎓 known
   - Observable/Observer
   - Readable
   - Writable
@@ -59,8 +59,8 @@
   - Mutex \*
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers +
-  - `setImmediate` +
+  - Timers: 🎓 known
+  - `setImmediate`: 🎓 known
   - `nextTick`
   - AbortController
   - AbortSignal
@@ -68,8 +68,8 @@
   - Promise double resolve
   - Atomics \*
   - High resolution clock
-  - Callback hell +
-  - Promise hell +
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
