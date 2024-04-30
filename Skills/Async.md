@@ -2,10 +2,10 @@
 
 - Theory
   - Event loop: 👂 heard
-  - `try..catch`: 🎓 known
+  - `try..catch` \: 🖐️ used
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O \: 🖐️ used
+  - Thread pool \: 🖐️ used
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,32 +14,32 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming: 🎓 known
+  - Dead locks: 🎓 known
+  - Live locks \: 🖐️ used
+  - Concurrent programming: 🎓 known
+  - Parallel programming \: 🖐️ used
   - Actor Model
-  - Thread
-  - Process
+  - Thread \: 🖐️ used
+  - Process \: 🖐️ used
 - Async contracts
-  - Callbacks: 🎓 known
+  - Callbacks \: 🖐️ used
   - Callback-last-error-first
-  - Thenable
-  - Promise: 🎓 known
-  - Async/await: 🎓 known
+  - Thenable \: 🖐️ used
+  - Promise \: 🖐️ used
+  - Async/await \: 🖐️ used
   - Future
   - Deferred
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
-  - Event
+  - Event \: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
-  - Stream: 🎓 known
+  - Stream \: 🖐️ used
   - Chain of responsibility
   - Middleware: 🎓 known
-  - Locks
+  - Locks \: 🖐️ used
 - Async adapters and utils
   - callbackify
   - promisify
@@ -55,8 +55,8 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore \: 🖐️ used
+  - Mutex \: 🖐️ used
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🎓 known
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics \: 🖐️ used
   - High resolution clock
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known

@@ -12,7 +12,7 @@
   - Generic programming: 🎓 known
   - Concurrent computing
   - Asynchronous programming: 🎓 known
-  - Parallel programming: 🎓 known
+  - Parallel programming \: 🖐️ used
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -47,7 +47,7 @@
   - Instance \: 🖐️ used
   - Introspection: 🎓 known
   - Reflection 6
-  - The diamond problem: 👂 heard
+  - The diamond problem: 🎓 known
 - GRASP
   - Information expert
   - Creator

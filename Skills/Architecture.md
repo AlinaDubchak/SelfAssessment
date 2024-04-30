@@ -14,17 +14,17 @@
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage \: 🖐️ used
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility \: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer \: 🖐️ used
   - Domain-specific language (DSL) \: 🖐️ used
   - System vs applied code
   - Multilayer approach
@@ -32,14 +32,14 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) \: 🖐️ used
   - Clean architecture
   - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
-  - Agent
+  - Agent \: 🖐️ used
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 🎓 known
   - CQRS
   - Event sourcing
   - E-R data modeling \: 🖐️ used
@@ -48,7 +48,7 @@
   - UML \: 🖐️ used
   - Work breakdown structure
   - Budget estimation \: 🖐️ used
-  - Distributed systems
+  - Distributed systems \: 🖐️ used
   - High-intensive computing
   - Load balancing
   - Gateways \: 🖐️ used
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices \: 🖐️ used
   - Process choreography
   - Service orchestration
   - Data warehouse

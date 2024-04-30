@@ -89,7 +89,7 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools
+  - AI tools: 🎓 known
   - Cloud databases: 🎓 known
   - Data Visualization
   - Postman: 📢 talked
