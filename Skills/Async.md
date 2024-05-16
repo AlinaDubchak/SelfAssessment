@@ -39,7 +39,7 @@
   - Stream \: 🖐️ used
   - Chain of responsibility
   - Middleware: 🎓 known
-  - Locks \: 🖐️ used
+  - Locks \
 - Async adapters and utils
   - callbackify
   - promisify
@@ -55,8 +55,8 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore \: 🖐️ used
-  - Mutex \: 🖐️ used
+  - Semaphore \
+  - Mutex \
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🎓 known
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics \: 🖐️ used
+  - Atomics \
   - High resolution clock
   - Callback hell: 🎓 known
   - Promise hell: 🎓 known

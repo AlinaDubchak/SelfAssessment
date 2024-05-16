@@ -1,0 +1,103 @@
+## Java
+
+- Code basics
+  - Variables \: 🖐️ used
+  - Primitive types \: 🖐️ used
+  - String \: 🖐️ used
+  - Object \: 🖐️ used
+  - Arithmetic operators \: 🖐️ used
+  - Boolean operators \: 🖐️ used
+  - Complex conditions \: 🖐️ used
+  - if/else \: 🖐️ used
+  - switch \: 🖐️ used
+  - Arrays \: 🖐️ used
+  - for loop \: 🖐️ used
+  - while loop \: 🖐️ used
+  - do ... while loop \: 🖐️ used
+  - foreach loop: 🎓 known
+  - try/catch \: 🖐️ used
+  - Checked exceptions \: 🖐️ used
+  - Unchecked exceptions: 👂 heard
+  - Errors \: 🖐️ used
+  - List \: 🖐️ used
+  - Set \: 🖐️ used
+  - Map \: 🖐️ used
+  - Collection, Iterable: 🎓 known
+- Methods
+  - Arguments \: 🖐️ used
+  - Return type \: 🖐️ used
+  - Method signature: 🎓 known
+  - Method overloading: 🎓 known
+  - varargs: 👂 heard
+- Recursion +
+- Classes and objects
+  - Properties \: 🖐️ used
+  - Methods \: 🖐️ used
+  - static \: 🖐️ used
+  - Constructors \: 🖐️ used
+  - final \: 🖐️ used
+  - this \: 🖐️ used
+  - Initializer
+  - Mutable and immutable objects: 🎓 known
+- Enum classes
+- Class Object
+  - toString() \: 🖐️ used
+  - equals(), hashcode() \: 🖐️ used
+- Packages
+- Object-Oriented Programming (OOP)
+  - Abstraction: 🎓 known
+  - Encapsulation \: 🖐️ used
+  - Inheritance \: 🖐️ used
+  - Polymorphism \: 🖐️ used
+  - Abstract class: 🎓 known
+  - Abstract method: 🎓 known
+  - Interface: 🎓 known
+  - final class: 🎓 known
+  - final method: 🎓 known
+  - final property: 🎓 known
+  - Nested class
+  - Inner class \: 🖐️ used
+  - public \: 🖐️ used
+  - private \: 🖐️ used
+  - protected \: 🖐️ used
+  - package-private: 🎓 known
+  - Cast operator
+  - instanceof: 🎓 known
+- Generics
+  - Class with type arguments
+  - Method with type arguments
+  - Bounded type arguments
+  - Type erasure
+  - Type inference
+  - Diamond operator <>: 🎓 known
+  - Unbounded wildcard
+  - Upper-bounded wildcard
+  - Lower-bounded wildcard
+- Functional programming
+  - Functional interfaces
+  - Lambdas
+  - Method references
+  - Java Stream API
+- Input/Output
+  - InputStream and OutputStream \: 🖐️ used
+  - Readers and Writers
+  - Serialization
+  - Working with files
+- Multithreading
+  - Thread \: 🖐️ used
+  - Runnable: 🎓 known
+  - Semaphore \: 🖐️ used
+  - Lock \: 🖐️ used
+  - Atomic types and operations \: 🖐️ used
+  - Monitors \: 🖐️ used
+  - synchronized methods \: 🖐️ used
+  - synchronized blocks \: 🖐️ used
+  - Synchronized collections: 🎓 known
+  - Dead locks, race conditions \: 🖐️ used
+- Date/Time API
+- Spring Framework
+  - Spring Core
+  - Spring Boot
+  - Spring MVC
+  - Spring Data
+  - Spring Security
