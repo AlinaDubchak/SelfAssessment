@@ -49,6 +49,7 @@ const UNITS = [
   'NodeJS',
   'Paradigms',
   'Architecture',
+  'Java',
 ];
 
 const wrongFormat = (msg, file) => {
