@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-386 / 686 / 730-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-509 / 834 / 904-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-386 / 686 / 730-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-509 / 834 / 904-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-386 / 686 / 730-FF3300?style=flat-square"></a>
+<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-509 / 834 / 904-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -16,25 +16,25 @@
 | ---- | ------ | -- |
 | [Programming](/Skills/Programming.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Concepts | `27` | `30` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `23` | `33` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Syntax and concepts | `27` | `33` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Types | `4` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `19` | `23` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `25` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `7` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `8` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Process and tools | `16` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `17` | `30` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `18` | `30` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Runtimes and virtual machines | `2` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `7` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `6` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `48` | `57` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `19` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `9` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `7` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `9` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `4` | `6` |
 | [Async](/Skills/Async.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `10` | `20` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `11` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `10` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `0` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `1` | `11` |
@@ -51,16 +51,37 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `6` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `13` | `25` |
-| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `20` | `21` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `12` | `24` |
+| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `21` | `21` |
 | &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `9` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `7` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `8` | `22` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `12` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `4` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `1` | `18` |
+| [Java](/Skills/Java.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Code basics | `22` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Methods | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Recursion + | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Classes and objects | `7` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enum classes | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Class Object | `2` | `2` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Packages | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Object-Oriented Programming (OOP) | `16` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Generics | `1` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functional programming | `0` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Input/Output | `1` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Multithreading | `10` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Date/Time API | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Spring Framework | `0` | `5` |
+| [React](/Skills/React.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `18` | `38` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Hooks | `9` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `0` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `13` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; React Native | `0` | `6` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
@@ -79,14 +100,11 @@
 | `...rest` | 🤷 unknown | ⟶  | 🖐️ used |
 | `typeof` | 🤷 unknown | ⟶  | 🖐️ used |
 | Destructuring | 🤷 unknown | ⟶  | 🖐️ used |
-| IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| Getters and setters | 🤷 unknown | ⟶  | 👂 heard |
 | `prototype` | 🤷 unknown | ⟶  | 👂 heard |
 | Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
 | Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
 | Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
+| Template literal | 🎓 known | ⟶  | 🖐️ used |
 | Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
 | `super` | 🎓 known | ⟶  | 🖐️ used |
 | Private class fields | 🤷 unknown | ⟶  | 🎓 known |
@@ -111,7 +129,6 @@
 | Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
 | Function expression | 🤷 unknown | ⟶  | 🖐️ used |
 | Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
-| Functional object | 🤷 unknown | ⟶  | 👂 heard |
 | `return` | 🤷 unknown | ⟶  | 🖐️ used |
 | `Array` | 🤷 unknown | ⟶  | 🖐️ used |
 | `Map` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -125,7 +142,7 @@
 | V8 | 🤷 unknown | ⟶  | 👂 heard |
 | prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `15` of `72` skills, `57` to be upgraded, and `4` above needed
+Total: you have `19` of `72` skills, `53` to be upgraded, and `9` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -151,29 +168,24 @@ Total: you have `15` of `72` skills, `57` to be upgraded, and `4` above needed
 | Async generator | 👂 heard | ⟶  | 🖐️ used |
 | Async iterator | 👂 heard | ⟶  | 🖐️ used |
 | Chaining | 🎓 known | ⟶  | 🖐️ used |
-| IIFE | 🤷 unknown | ⟶  | 🖐️ used |
-| Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
+| IIFE | 🎓 known | ⟶  | 🖐️ used |
+| Async IIFE | 🎓 known | ⟶  | 🖐️ used |
 | `global` | 🎓 known | ⟶  | 🖐️ used |
 | `globalThis` | 👂 heard | ⟶  | 🖐️ used |
-| Getters and setters | 🤷 unknown | ⟶  | 🖐️ used |
+| Getters and setters | 🎓 known | ⟶  | 🖐️ used |
 | Equality operators | 🤷 unknown | ⟶  | 🖐️ used |
 | Logical operators | 🤷 unknown | ⟶  | 🖐️ used |
 | Ternary operator | 🤷 unknown | ⟶  | 🖐️ used |
 | `void` | 🤷 unknown | ⟶  | 🖐️ used |
-| `yield` | 👂 heard | ⟶  | 🖐️ used |
+| `yield` | 🎓 known | ⟶  | 🖐️ used |
 | `await` | 🎓 known | ⟶  | 🖐️ used |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
+| Template literal | 🎓 known | ⟶  | 🖐️ used |
 | Strict mode | 🤷 unknown | ⟶  | 🖐️ used |
 | `delete` | 🎓 known | ⟶  | 🖐️ used |
 | `super` | 🎓 known | ⟶  | 🖐️ used |
-| `eval` | 🤷 unknown | ⟶  | 🎓 known |
 | `static` | 🎓 known | ⟶  | 🖐️ used |
 | `Number.parseInt` | 🎓 known | ⟶  | 🖐️ used |
 | `Number.parseFloat` | 🎓 known | ⟶  | 🖐️ used |
-| Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
-| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Computed properties | 🤷 unknown | ⟶  | 🎓 known |
 | Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
 | Static class fields | 🤷 unknown | ⟶  | 🎓 known |
 | Private class fields | 🤷 unknown | ⟶  | 🎓 known |
@@ -199,7 +211,6 @@ Total: you have `15` of `72` skills, `57` to be upgraded, and `4` above needed
 | Function declaration | 🤷 unknown | ⟶  | 🖐️ used |
 | Function expression | 🤷 unknown | ⟶  | 🖐️ used |
 | Default parameters | 🤷 unknown | ⟶  | 🖐️ used |
-| Functional object | 🤷 unknown | ⟶  | 👂 heard |
 | `return` | 🤷 unknown | ⟶  | 🖐️ used |
 | `Array` | 🤷 unknown | ⟶  | 🖐️ used |
 | `Map` | 🤷 unknown | ⟶  | 🖐️ used |
@@ -220,7 +231,7 @@ Total: you have `15` of `72` skills, `57` to be upgraded, and `4` above needed
 | npm | 🤷 unknown | ⟶  | 🎓 known |
 | prettier | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `7` of `97` skills, `90` to be upgraded, and `1` above needed
+Total: you have `13` of `97` skills, `84` to be upgraded, and `2` above needed
 
 ## [Async](/Skills/Async.md)
 
@@ -330,7 +341,6 @@ Total: you have `3` of `37` skills, `34` to be upgraded, and `1` above needed
 | Dead locks | 🎓 known | ⟶  | 🖐️ used |
 | Live locks | 🤷 unknown | ⟶  | 🖐️ used |
 | Parallel programming | 🤷 unknown | ⟶  | 🎓 known |
-| Actor Model | 🤷 unknown | ⟶  | 🎓 known |
 | Thread | 🤷 unknown | ⟶  | 🖐️ used |
 | Process | 🤷 unknown | ⟶  | 🖐️ used |
 | Callbacks | 🤷 unknown | ⟶  | 🖐️ used |
@@ -393,7 +403,7 @@ Total: you have `3` of `37` skills, `34` to be upgraded, and `1` above needed
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
 | Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `1` of `75` skills, `74` to be upgraded, and `0` above needed
+Total: you have `2` of `75` skills, `73` to be upgraded, and `0` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 

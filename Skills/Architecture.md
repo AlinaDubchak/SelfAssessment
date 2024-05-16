@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Modularity
+  - Modularity: 🎓 known
   - Components
   - Directories
   - GRASP: 👂 heard
@@ -21,7 +21,7 @@
   - Reliability: 🎓 known
   - Quality: 🎓 known
   - Availability: 🎓 known
-  - Flexibility \: 🖐️ used
+  - Flexibility \: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer \: 🖐️ used
