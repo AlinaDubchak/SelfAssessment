@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-390 / 686 / 730-009933?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-386 / 686 / 730-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-390 / 686 / 730-009933?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-386 / 686 / 730-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-390 / 686 / 730-009933?style=flat-square"></a>
+<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-386 / 686 / 730-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -35,10 +35,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `4` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `10` | `20` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `11` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `10` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `3` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `5` | `17` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `1` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `4` | `17` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `0` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `5` | `9` |
