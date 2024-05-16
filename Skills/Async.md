@@ -5,7 +5,7 @@
   - `try..catch` \: 🖐️ used
   - Non-blocking
   - Async I/O \: 🖐️ used
-  - Thread pool \: 🖐️ used
+  - Thread pool \: +
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -18,7 +18,7 @@
   - Live locks \: 🖐️ used
   - Concurrent programming: 🎓 known
   - Parallel programming \: 🖐️ used
-  - Actor Model
+  - Actor Model +
   - Thread \: 🖐️ used
   - Process \: 🖐️ used
 - Async contracts

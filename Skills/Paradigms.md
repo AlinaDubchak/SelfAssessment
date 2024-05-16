@@ -7,12 +7,12 @@
   - Non-structured programming: 🎓 known
   - Functional programming \: 🖐️ used
   - Prototype-based programming: 🎓 known
-  - Object-oriented programming \: 🖐️ used
+  - Object-oriented programming \: 🖐️ used !
   - Object-based programming: 🎓 known
   - Generic programming: 🎓 known
   - Concurrent computing
   - Asynchronous programming: 🎓 known
-  - Parallel programming \: 🖐️ used
+  - Parallel programming \: !
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
@@ -46,7 +46,7 @@
   - Object form: 🎓 known
   - Instance \: 🖐️ used
   - Introspection: 🎓 known
-  - Reflection 6
+  - Reflection 6 +
   - The diamond problem: 🎓 known
 - GRASP
   - Information expert
@@ -64,9 +64,9 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton \: 🖐️ used
-  - Factory Method \: 🖐️ used
-  - Abstract Factory \: 🖐️ used
+  - Singleton \: +
+  - Factory Method \: +
+  - Abstract Factory \: +
   - Adapter
   - Observer
   - Strategy
@@ -74,10 +74,10 @@
   - Proxy: 🎓 known
   - Chain of Responsibility
   - Command
-  - Iterator \: 🖐️ used
-  - State \: 🖐️ used
+  - Iterator \: +
+  - State \: +
   - Bridge
-  - Builder \: 🖐️ used
+  - Builder \: +
   - Prototype: 🎓 known
   - Composite
   - Decorator: 🎓 known

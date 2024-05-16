@@ -3,7 +3,7 @@
 - Internals and concepts
   - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code \: 🖐️ used
+  - Nonblocking I/O and blocking code \: +
   - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🎓 known
   - Garbage collection: 🎓 known
@@ -29,12 +29,12 @@
   - Command line arguments \: 🖐️ used
   - Node.js CLI \: 🖐️ used
   - Process-based permissions
-  - Graceful shutdown \: 🖐️ used
+  - Graceful shutdown \: +
   - Clustering
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
   - Streams API: 🎓 known
-  - Web Streams API \: 🖐️ used
+  - Web Streams API \: +
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
@@ -60,38 +60,38 @@
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
 - Network
-  - Endpoint throttling \: 🖐️ used
+  - Endpoint throttling \: +
   - ALPN
   - SNI callback
-  - SSL certificates \: 🖐️ used
-  - Protocol agnostic approach \: 🖐️ used
-  - Fetch API \: 🖐️ used
+  - SSL certificates \: +
+  - Protocol agnostic approach \: +
+  - Fetch API \: +
   - IncomingMessage
-  - HTTP(S) \: 🖐️ used
-  - TCP/SSL \: 🖐️ used
-  - UDP \: 🖐️ used
-  - TLS \: 🖐️ used
+  - HTTP(S) \: +
+  - TCP/SSL \: +
+  - UDP \: +
+  - TLS \: +
   - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST \: 🖐️ used
+  - REST \: +
   - RPC
-  - Routing \: 🖐️ used
+  - Routing \: +
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS \: 🖐️ used
-  - SQL injection \: 🖐️ used
+  - DNS \: +
+  - SQL injection \: +
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner: 🎓 known
   - Logging
-  - Application configuring \: 🖐️ used
+  - Application configuring \: +
   - Testing: 📢 talked
   - CI/CD: 📢 talked
   - Readable
@@ -110,10 +110,10 @@
   - CRUD \: 🖐️ used
   - DTO
 - Error handling and debugging
-  - `Error` \: 🖐️ used
+  - `Error` \: +
   - `error.cause`: 👂 heard
-  - `error.code` \: 🖐️ used
-  - `error.message` \: 🖐️ used
+  - `error.code` \: +
+  - `error.message` \: +
   - `error.stack`: 🎓 known
   - `Error.captureStackTrace`: 🎓 known
   - How to avoid mixins

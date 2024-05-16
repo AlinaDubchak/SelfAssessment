@@ -24,12 +24,12 @@
   - Async iterator: 👂 heard
   - Chaining: 🎓 known
   - Optional chaining: 👂 heard
-  - IIFE
-  - Async IIFE
+  - IIFE +
+  - Async IIFE +
   - `global`: 🎓 known
   - `globalThis`: 👂 heard
   - `window` \: 🖐️ used
-  - Getters and setters
+  - Getters and setters +
   - `__proto__`: 🎓 known
   - `prototype` \: 🖐️ used
   - Equality operators \: 🖐️ used
@@ -38,22 +38,22 @@
   - Bitwise operators \: 🖐️ used
   - Ternary operator \: 🖐️ used
   - `void` \: 🖐️ used
-  - `yield`: 👂 heard
+  - `yield`: +
   - `await`: 🎓 known
-  - Template literal
+  - Template literal +
   - Strict mode \: 🖐️ used
   - Hoisting: 🎓 known
   - `delete`: 🎓 known
   - `in`: 🎓 known
   - `super`: 🎓 known
-  - `eval`
+  - `eval` +
   - `static`: 🎓 known
   - `Number.parseInt`: 🎓 known
   - `Number.parseFloat`: 🎓 known
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
+  - Property descriptors +
+  - Sealing properties +
+  - Freezing properties +
+  - Computed properties +
   - Instance class fields \: 🖐️ used
   - Static class fields \: 🖐️ used
   - Private class fields \: 🖐️ used
@@ -71,7 +71,7 @@
   - `continue` \: 🖐️ used
   - `import` \: 🖐️ used
   - `export` \: 🖐️ used
-  - `label`
+  - `label` \*
   - `try..catch` \: 🖐️ used
   - `switch` \: 🖐️ used
   - `class` \: 🖐️ used
@@ -84,7 +84,7 @@
   - Function declaration \: 🖐️ used
   - Function expression \: 🖐️ used
   - Default parameters \: 🖐️ used
-  - Functional object
+  - Functional object +
   - `Function.prototype.call`: 🎓 known
   - `Function.prototype.bind`: 🎓 known
   - `Function.prototype.apply`: 🎓 known

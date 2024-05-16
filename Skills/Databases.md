@@ -1,16 +1,16 @@
 ## Databases
 
 - Theory and concepts
-  - Data types \: 🖐️ used
+  - Data types \: +
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery: 🎓 known
   - Database scalability: 🎓 known
-  - Relational databases \: 🖐️ used
-  - Key-value store \: 🖐️ used
+  - Relational databases \: +
+  - Key-value store \: +
   - Tuple store
-  - Graph databases \: 🖐️ used
+  - Graph databases \: +
   - Object databases: 🎓 known
   - Column databases: 🎓 known
   - Navigational databases
@@ -18,9 +18,9 @@
   - In-memory databases
   - Inverted index
   - Data control language (DCL): 🎓 known
-  - Data definition language (DDL) \: 🖐️ used
+  - Data definition language (DDL) \: +
   - Data manipulation language (DML): 🎓 known
-  - Data query language (DQL) \: 🖐️ used
+  - Data query language (DQL) \: +
 - Relational
   - Entity-Relationship Diagram \: 🖐️ used
   - Normal forms: 🎓 known
