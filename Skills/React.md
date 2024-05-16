@@ -1,0 +1,95 @@
+## React
+
+- Main concepts
+  - JSX: !
+  - Virtual DOM: \*
+  - Functional component: \*
+  - Class component: \*
+  - Dumb component: +
+  - Smart component: +
+  - Rendering a component: \*
+  - Props: \*
+  - State: \*
+  - Composing components: +
+  - Extracting components: +
+  - Lifecycle components: +
+  - Conditional rendering: +
+  - The Data Flows Down:
+  - Handling Events:
+  - Prevent from Rendering:
+  - Multiple Rendering:
+  - Controlled Components:
+  - Lifting State Up:
+  - Composition vs Inheritance: +
+  - Code-Splitting:
+  - Bundling:
+  - React.lazy:
+  - Suspense and fallbacks:
+  - Named Exports:
+  - React Context:
+  - Context.Provider:
+  - Context.Consumer:
+  - Error Boundaries:
+  - Refs:
+  - Forwarding refs: +
+  - Fragments:
+  - Higher-Order Component:
+  - Portals:
+  - Profiler:
+  - Render Props: +
+  - Strict Mode: +
+  - Uncontrolled Components: +
+- Hooks
+  - useState: \*
+  - useEffect: \*
+  - useReducer: +
+  - useContext: +
+  - useRef:
+  - useCallback:
+  - useMemo: +
+  - useTransition:
+  - useDefferedValue: +
+  - useLayoutEffect: +
+  - useId: +
+  - useDebugValue:
+  - useImperativeHandle:
+  - Custom Hooks: +
+- Antipatterns
+  - Props drilling:
+  - Props Plowing:
+  - Props mutation:
+  - setState() is async:
+  - Nested components:
+  - Huge component trees:
+  - Passing all props with spread everywhere:
+  - Passing too much information to components:
+  - Overoptimizing performance:
+  - Async functions in useEffect:
+  - Multiple useState hooks:
+- Environment
+  - React Router: \*
+  - React Redux: \*
+  - React Dom: \*
+  - Redux Thunk: +
+  - Redux Final Form: +
+  - Formik: \*
+  - Babel: +
+  - Sass: \*
+  - Tailwind:
+  - Styled Components:
+  - Next:
+  - Vite: +
+  - Webpack:
+  - Hook form:
+  - React DevTools: +
+  - Redux DevTools: +
+  - Jest: \*
+  - React Testing Library: +
+  - Reselect:
+- React Native
+  - Crossplatform Components (View, Text, Image, Picker, etc.):
+  - IOS Components (TabBarIOS, ActionSheetIOS, etc.):
+  - Android components (Android: BackAndroid, ToolbarAndroid, etc.):
+  - Navigator:
+  - Styles in React native:
+  - <Animated.View>, <Animated.Image>, <Animated.Text>:
