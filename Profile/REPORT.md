@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-509 / 834 / 904-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-597 / 931 / 1052-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-509 / 834 / 904-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-597 / 931 / 1052-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-509 / 834 / 904-FF3300?style=flat-square"></a>
+<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-597 / 931 / 1052-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -82,6 +82,34 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `0` | `11` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Environment | `13` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; React Native | `0` | `6` |
+| [Python](/Skills/Python.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Introduction and Basics | `6` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Operators | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Conditional Statements | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; While Loop | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Lists | `4` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Strings | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; For Loops | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Dictionary | `0` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Tuple | `0` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Set | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Object-Oriented Programming | `0` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; File Handling | `6` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Exception Handling | `2` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modules & Packages | `9` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data Structures | `6` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Higher-Order Functions | `4` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Python Web Scrapping | `0` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Virtual Environment | `1` | `1` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Web Application Project | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Deployment | `0` | `2` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Python with MongoDB Database | `0` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Building API | `0` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Statistics with NumPy | `4` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data Analysis with Pandas | `0` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data Visualization with Matplotlib | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Library For Computer Vision | `5` | `5` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
