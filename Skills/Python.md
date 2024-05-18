@@ -1,60 +1,57 @@
 - Introduction and Basics
-  - Python Org, Python 3 +
-  - Variables +
-  - Print function +
-  - Input from user +
-  - Data Types !
-  - Type Conversion !
+  - Python Org, Python 3: 🎓 known
+  - Variables: 🎓 known
+  - Print function: 🎓 known
+  - Input from user: 🎓 known
+  - Data Types: 🙋 explained
+  - Type Conversion: 🙋 explained
 - Operators
-  - Arithmetic Operators +
-  - Relational Operators +
-  - Bitwise Operators +
-  - Logical Operators +
-  - Assignment Operators +
-  - Compound Operators +
-  - Membership Operators +
-  - Identity Operators +
+  - Arithmetic Operators: 🎓 known
+  - Relational Operators: 🎓 known
+  - Bitwise Operators: 🎓 known
+  - Logical Operators: 🎓 known
+  - Assignment Operators: 🎓 known
+  - Compound Operators: 🎓 known
+  - Membership Operators: 🎓 known
+  - Identity Operators: 🎓 known
 - Conditional Statements
-  - If Else \*
-  - If \*
-  - Else \*
-  - El If (else if) \*
-  - If Else Ternary Expression +
+  - If Else \: 🖐️ used
+  - If \: 🖐️ used
+  - Else \: 🖐️ used
+  - El If (else if) \: 🖐️ used
+  - If Else Ternary Expression: 🎓 known
 - While Loop
-  - While loop logic building \*
-  - Series based Questions +
-  - Break +
-  - Continue +
-  - Nested While Loops +
-  - Pattern-Based Questions ~
-  - pass +
-  - Loop else \*
+  - While loop logic building \: 🖐️ used
+  - Series based Questions: 🎓 known
+  - Break: 🎓 known
+  - Continue: 🎓 known
+  - Nested While Loops: 🎓 known
+  - Pattern-Based Questions: 👂 heard
+  - pass: 🎓 known
+  - Loop else \: 🖐️ used
 - Lists
-  - List Basics +
-  - List Operations +
-  - List Comprehensions / Slicing +
-  - List Methods +
+  - List Basics: 🎓 known
+  - List Operations: 🎓 known
+  - List Comprehensions / Slicing: 🎓 known
+  - List Methods: 🎓 known
 - Strings
-  - String Basics +
-  - String Literals +
-  - String Operations +
-  - String Comprehensions / Slicing ~
-  - String Methods +
+  - String Basics: 🎓 known
+  - String Literals: 🎓 known
+  - String Operations: 🎓 known
+  - String Comprehensions / Slicing: 👂 heard
+  - String Methods: 🎓 known
 - For Loops
-  - Range function \*
-  - For loop \*
-  - Nested For Loops \*
-  - Pattern-Based Questions +
-  - Break +
-  - Continue +
-  - Pass +
-  - Loop else +
+  - Range function \: 🖐️ used
+  - For loop \: 🖐️ used
+  - Nested For Loops \: 🖐️ used
+  - Pass: 🎓 known
+  - Loop else: 🎓 known
 - Functions
-  - Definition +
-  - Docstrings ~
-  - Special functions Lambda, Map, and Filter +
-  - Recursion +
-  - Functional Programming and Reference Functions +
+  - Definition: 🎓 known
+  - Docstrings: 👂 heard
+  - Special functions Lambda, Map, and Filter: 🎓 known
+  - Recursion: 🎓 known
+  - Functional Programming and Reference Functions: 🎓 known
 - Dictionary
   - Dictionaries Basics
   - Operations
@@ -81,53 +78,53 @@
   - Data Hiding
   - Operator Overloading
 - File Handling
-  - Opening Files \*
-  - Reading Files \*
-  - Writing Files \*
-  - Editing Files \*
-  - Working with different extensions of file \*
-  - With Statements +
+  - Opening Files \: 🖐️ used
+  - Reading Files \: 🖐️ used
+  - Writing Files \: 🖐️ used
+  - Editing Files \: 🖐️ used
+  - Working with different extensions of file \: 🖐️ used
+  - With Statements: 🎓 known
 - Exception Handling
   - Common Exceptions
   - Exception Handling
-  - Try +
-  - Except +
+  - Try: 🎓 known
+  - Except: 🎓 known
   - Try except else
   - Finally
   - Raising exceptions
   - Assertion
 - Modules & Packages
-  - Different types of modules +
+  - Different types of modules: 🎓 known
   - Inbuilt modules
-  - OS \*
-  - Sys \*
-  - Statistics +
-  - Math \*
-  - String \*
-  - Random +
-  - Create your own module \*
-  - Building Packages \*
+  - OS \: 🖐️ used
+  - Sys \: 🖐️ used
+  - Statistics: 🎓 known
+  - Math \: 🖐️ used
+  - String \: 🖐️ used
+  - Random: 🎓 known
+  - Create your own module \: 🖐️ used
+  - Building Packages \: 🖐️ used
 - Data Structures
-  - Stack +
-  - Queue +
-  - Linked Lists +
-  - Sorting +
+  - Stack: 🎓 known
+  - Queue: 🎓 known
+  - Linked Lists: 🎓 known
+  - Sorting: 🎓 known
   - Searching
-  - Linear Search +
-  - Binary Search +
+  - Linear Search: 🎓 known
+  - Binary Search: 🎓 known
 - Higher-Order Functions
-  - Function as a parameter \*
-  - Function as a return value \*
-  - Closures \*
+  - Function as a parameter \: 🖐️ used
+  - Function as a return value \: 🖐️ used
+  - Closures \: 🖐️ used
   - Decorators
-  - Map, Filter, Reduce Functions +
+  - Map, Filter, Reduce Functions: 🎓 known
 - Python Web Scrapping
   - Understanding BeautifulSoup
   - Extracting Data from websites
   - Extracting Tables
   - Data in JSON format
 - Virtual Environment
-  - Virtual Environment Setup ~
+  - Virtual Environment Setup: 👂 heard
 - Web Application Project
   - Flask
   - Project Structure
@@ -154,11 +151,10 @@
   - DELETE
   - Using Postman
 - Statistics with NumPy
-  - Statistics +
-  - NumPy basics \*
-  - Working with Matrix \*
-  - Linear Algebra operations \* !
-  - Descriptive Statistics +
+  - NumPy basics \: 🖐️ used
+  - Working with Matrix \: 🖐️ used
+  - Linear Algebra operations \*: 🙋 explained
+  - Descriptive Statistics: 🎓 known
 - Data Analysis with Pandas
   - Data Analysis basics
   - Dataframe operations
@@ -166,14 +162,14 @@
   - Data Cleaning
   - Data Grouping
 - Data Visualization with Matplotlib
-  - Matplotlib Basics \*
-  - Working with plots \*
-  - Plot \*
-  - Pie Chart \*
-  - Histogram \*
+  - Matplotlib Basics \: 🖐️ used
+  - Working with plots \: 🖐️ used
+  - Plot \: 🖐️ used
+  - Pie Chart \: 🖐️ used
+  - Histogram \: 🖐️ used
 - Library For Computer Vision
-  - tensorflow !
-  - shutil, glob, os.path \*
-  - keras !
-  - cv2 !
-  - PIL \*
+  - tensorflow: 🙋 explained
+  - shutil, glob, os.path \: 🖐️ used
+  - keras: 🙋 explained
+  - cv2: 🙋 explained
+  - PIL \: 🖐️ used
