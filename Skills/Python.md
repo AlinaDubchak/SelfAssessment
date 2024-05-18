@@ -1,0 +1,175 @@
+- Introduction and Basics
+  - Python Org, Python 3: 🎓 known
+  - Variables: 🎓 known
+  - Print function: 🎓 known
+  - Input from user: 🎓 known
+  - Data Types: 🙋 explained
+  - Type Conversion: 🙋 explained
+- Operators
+  - Arithmetic Operators: 🎓 known
+  - Relational Operators: 🎓 known
+  - Bitwise Operators: 🎓 known
+  - Logical Operators: 🎓 known
+  - Assignment Operators: 🎓 known
+  - Compound Operators: 🎓 known
+  - Membership Operators: 🎓 known
+  - Identity Operators: 🎓 known
+- Conditional Statements
+  - If Else \: 🖐️ used
+  - If \: 🖐️ used
+  - Else \: 🖐️ used
+  - El If (else if) \: 🖐️ used
+  - If Else Ternary Expression: 🎓 known
+- While Loop
+  - While loop logic building \: 🖐️ used
+  - Series based Questions: 🎓 known
+  - Break: 🎓 known
+  - Continue: 🎓 known
+  - Nested While Loops: 🎓 known
+  - Pattern-Based Questions: 👂 heard
+  - pass: 🎓 known
+  - Loop else \: 🖐️ used
+- Lists
+  - List Basics: 🎓 known
+  - List Operations: 🎓 known
+  - List Comprehensions / Slicing: 🎓 known
+  - List Methods: 🎓 known
+- Strings
+  - String Basics: 🎓 known
+  - String Literals: 🎓 known
+  - String Operations: 🎓 known
+  - String Comprehensions / Slicing: 👂 heard
+  - String Methods: 🎓 known
+- For Loops
+  - Range function \: 🖐️ used
+  - For loop \: 🖐️ used
+  - Nested For Loops \: 🖐️ used
+  - Pass: 🎓 known
+  - Loop else: 🎓 known
+- Functions
+  - Definition: 🎓 known
+  - Docstrings: 👂 heard
+  - Special functions Lambda, Map, and Filter: 🎓 known
+  - Recursion: 🎓 known
+  - Functional Programming and Reference Functions: 🎓 known
+- Dictionary
+  - Dictionaries Basics
+  - Operations
+  - Comprehensions
+  - Dictionaries Methods
+- Tuple
+  - Tuples Basics
+  - Tuples Comprehensions / Slicing
+  - Tuple Functions
+  - Tuple Methods
+- Set
+  - Sets Basics
+  - Sets Operations
+  - Union
+  - Intersection
+  - Difference and Symmetric Difference
+- Object-Oriented Programming
+  - Classes
+  - Objects
+  - Method Calls
+  - Inheritance and Its Types
+  - Overloading
+  - Overriding
+  - Data Hiding
+  - Operator Overloading
+- File Handling
+  - Opening Files \: 🖐️ used
+  - Reading Files \: 🖐️ used
+  - Writing Files \: 🖐️ used
+  - Editing Files \: 🖐️ used
+  - Working with different extensions of file \: 🖐️ used
+  - With Statements: 🎓 known
+- Exception Handling
+  - Common Exceptions
+  - Exception Handling
+  - Try: 🎓 known
+  - Except: 🎓 known
+  - Try except else
+  - Finally
+  - Raising exceptions
+  - Assertion
+- Modules & Packages
+  - Different types of modules: 🎓 known
+  - Inbuilt modules
+  - OS \: 🖐️ used
+  - Sys \: 🖐️ used
+  - Statistics: 🎓 known
+  - Math \: 🖐️ used
+  - String \: 🖐️ used
+  - Random: 🎓 known
+  - Create your own module \: 🖐️ used
+  - Building Packages \: 🖐️ used
+- Data Structures
+  - Stack: 🎓 known
+  - Queue: 🎓 known
+  - Linked Lists: 🎓 known
+  - Sorting: 🎓 known
+  - Searching
+  - Linear Search: 🎓 known
+  - Binary Search: 🎓 known
+- Higher-Order Functions
+  - Function as a parameter \: 🖐️ used
+  - Function as a return value \: 🖐️ used
+  - Closures \: 🖐️ used
+  - Decorators
+  - Map, Filter, Reduce Functions: 🎓 known
+- Python Web Scrapping
+  - Understanding BeautifulSoup
+  - Extracting Data from websites
+  - Extracting Tables
+  - Data in JSON format
+- Virtual Environment
+  - Virtual Environment Setup: 👂 heard
+- Web Application Project
+  - Flask
+  - Project Structure
+  - Routes
+  - Templates
+  - Navigations
+- Deployment
+  - Heroku Deployment
+  - Flask Integration
+- Python with MongoDB Database
+  - SQL and NoSQL
+  - Connecting to MongoDB URI
+  - Flask application and MongoDB integration
+  - CRUD Operations
+  - Find
+  - Delete
+  - Drop
+- Building API
+  - API (Application Programming Interface)
+  - Building API
+  - Structure of an API
+  - PUT
+  - POST
+  - DELETE
+  - Using Postman
+- Statistics with NumPy
+  - NumPy basics \: 🖐️ used
+  - Working with Matrix \: 🖐️ used
+  - Linear Algebra operations \*: 🙋 explained
+  - Descriptive Statistics: 🎓 known
+- Data Analysis with Pandas
+  - Data Analysis basics
+  - Dataframe operations
+  - Working with 2-dimensional data
+  - Data Cleaning
+  - Data Grouping
+- Data Visualization with Matplotlib
+  - Matplotlib Basics \: 🖐️ used
+  - Working with plots \: 🖐️ used
+  - Plot \: 🖐️ used
+  - Pie Chart \: 🖐️ used
+  - Histogram \: 🖐️ used
+- Library For Computer Vision
+  - tensorflow: 🙋 explained
+  - shutil, glob, os.path \: 🖐️ used
+  - keras: 🙋 explained
+  - cv2: 🙋 explained
+  - PIL \: 🖐️ used
