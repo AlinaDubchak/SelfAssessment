@@ -1,95 +1,95 @@
 ## React
 
 - Main concepts
-  - JSX: !
-  - Virtual DOM: \*
-  - Functional component: \*
-  - Class component: \*
-  - Dumb component: +
-  - Smart component: +
-  - Rendering a component: \*
-  - Props: \*
-  - State: \*
-  - Composing components: +
-  - Extracting components: +
-  - Lifecycle components: +
-  - Conditional rendering: +
-  - The Data Flows Down:
-  - Handling Events:
-  - Prevent from Rendering:
-  - Multiple Rendering:
-  - Controlled Components:
-  - Lifting State Up:
-  - Composition vs Inheritance: +
-  - Code-Splitting:
-  - Bundling:
-  - React.lazy:
-  - Suspense and fallbacks:
-  - Named Exports:
-  - React Context:
-  - Context.Provider:
-  - Context.Consumer:
-  - Error Boundaries:
-  - Refs:
-  - Forwarding refs: +
-  - Fragments:
-  - Higher-Order Component:
-  - Portals:
-  - Profiler:
-  - Render Props: +
-  - Strict Mode: +
-  - Uncontrolled Components: +
+  - JSX: 🙋 explained
+  - Virtual DOM: \: 🖐️ used
+  - Functional component: \: 🖐️ used
+  - Class component: \: 🖐️ used
+  - Dumb component: 🎓 known
+  - Smart component: 🎓 known
+  - Rendering a component: \: 🖐️ used
+  - Props: \: 🖐️ used
+  - State: \: 🖐️ used
+  - Composing components: 🎓 known
+  - Extracting components: 🎓 known
+  - Lifecycle components: 🎓 known
+  - Conditional rendering: 🎓 known
+  - The Data Flows Down
+  - Handling Events
+  - Prevent from Rendering
+  - Multiple Rendering
+  - Controlled Components
+  - Lifting State Up
+  - Composition vs Inheritance: 🎓 known
+  - Code-Splitting
+  - Bundling
+  - React.lazy
+  - Suspense and fallbacks
+  - Named Exports
+  - React Context
+  - Context.Provider
+  - Context.Consumer
+  - Error Boundaries
+  - Refs
+  - Forwarding refs: 🎓 known
+  - Fragments
+  - Higher-Order Component
+  - Portals
+  - Profiler
+  - Render Props: 🎓 known
+  - Strict Mode: 🎓 known
+  - Uncontrolled Components: 🎓 known
 - Hooks
-  - useState: \*
-  - useEffect: \*
-  - useReducer: +
-  - useContext: +
-  - useRef:
-  - useCallback:
-  - useMemo: +
-  - useTransition:
-  - useDefferedValue: +
-  - useLayoutEffect: +
-  - useId: +
-  - useDebugValue:
-  - useImperativeHandle:
-  - Custom Hooks: +
+  - useState: \: 🖐️ used
+  - useEffect: \: 🖐️ used
+  - useReducer: 🎓 known
+  - useContext: 🎓 known
+  - useRef
+  - useCallback
+  - useMemo: 🎓 known
+  - useTransition
+  - useDefferedValue: 🎓 known
+  - useLayoutEffect: 🎓 known
+  - useId: 🎓 known
+  - useDebugValue
+  - useImperativeHandle
+  - Custom Hooks: 🎓 known
 - Antipatterns
-  - Props drilling:
-  - Props Plowing:
-  - Props mutation:
-  - setState() is async:
-  - Nested components:
-  - Huge component trees:
-  - Passing all props with spread everywhere:
-  - Passing too much information to components:
-  - Overoptimizing performance:
-  - Async functions in useEffect:
-  - Multiple useState hooks:
+  - Props drilling
+  - Props Plowing
+  - Props mutation
+  - setState() is async
+  - Nested components
+  - Huge component trees
+  - Passing all props with spread everywhere
+  - Passing too much information to components
+  - Overoptimizing performance
+  - Async functions in useEffect
+  - Multiple useState hooks
 - Environment
-  - React Router: \*
-  - React Redux: \*
-  - React Dom: \*
-  - Redux Thunk: +
-  - Redux Final Form: +
-  - Formik: \*
-  - Babel: +
-  - Sass: \*
-  - Tailwind:
-  - Styled Components:
-  - Next:
-  - Vite: +
-  - Webpack:
-  - Hook form:
-  - React DevTools: +
-  - Redux DevTools: +
-  - Jest: \*
-  - React Testing Library: +
-  - Reselect:
+  - React Router: \: 🖐️ used
+  - React Redux: \: 🖐️ used
+  - React Dom: \: 🖐️ used
+  - Redux Thunk: 🎓 known
+  - Redux Final Form: 🎓 known
+  - Formik: \: 🖐️ used
+  - Babel: 🎓 known
+  - Sass: \: 🖐️ used
+  - Tailwind
+  - Styled Components
+  - Next
+  - Vite: 🎓 known
+  - Webpack
+  - Hook form
+  - React DevTools: 🎓 known
+  - Redux DevTools: 🎓 known
+  - Jest: \: 🖐️ used
+  - React Testing Library: 🎓 known
+  - Reselect
 - React Native
-  - Crossplatform Components (View, Text, Image, Picker, etc.):
-  - IOS Components (TabBarIOS, ActionSheetIOS, etc.):
-  - Android components (Android: BackAndroid, ToolbarAndroid, etc.):
-  - Navigator:
-  - Styles in React native:
-  - <Animated.View>, <Animated.Image>, <Animated.Text>:
+  - Crossplatform Components (View, Text, Image, Picker, etc.)
+  - IOS Components (TabBarIOS, ActionSheetIOS, etc.)
+  - Android components (Android: BackAndroid, ToolbarAndroid, etc.)
+  - Navigator
+  - Styles in React native
+  - <Animated.View>, <Animated.Image>, <Animated.Text>
