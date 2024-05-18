@@ -1,0 +1,179 @@
+- Introduction and Basics
+  - Python Org, Python 3 +
+  - Variables +
+  - Print function +
+  - Input from user +
+  - Data Types !
+  - Type Conversion !
+- Operators
+  - Arithmetic Operators +
+  - Relational Operators +
+  - Bitwise Operators +
+  - Logical Operators +
+  - Assignment Operators +
+  - Compound Operators +
+  - Membership Operators +
+  - Identity Operators +
+- Conditional Statements
+  - If Else \*
+  - If \*
+  - Else \*
+  - El If (else if) \*
+  - If Else Ternary Expression +
+- While Loop
+  - While loop logic building \*
+  - Series based Questions +
+  - Break +
+  - Continue +
+  - Nested While Loops +
+  - Pattern-Based Questions ~
+  - pass +
+  - Loop else \*
+- Lists
+  - List Basics +
+  - List Operations +
+  - List Comprehensions / Slicing +
+  - List Methods +
+- Strings
+  - String Basics +
+  - String Literals +
+  - String Operations +
+  - String Comprehensions / Slicing ~
+  - String Methods +
+- For Loops
+  - Range function \*
+  - For loop \*
+  - Nested For Loops \*
+  - Pattern-Based Questions +
+  - Break +
+  - Continue +
+  - Pass +
+  - Loop else +
+- Functions
+  - Definition +
+  - Docstrings ~
+  - Special functions Lambda, Map, and Filter +
+  - Recursion +
+  - Functional Programming and Reference Functions +
+- Dictionary
+  - Dictionaries Basics
+  - Operations
+  - Comprehensions
+  - Dictionaries Methods
+- Tuple
+  - Tuples Basics
+  - Tuples Comprehensions / Slicing
+  - Tuple Functions
+  - Tuple Methods
+- Set
+  - Sets Basics
+  - Sets Operations
+  - Union
+  - Intersection
+  - Difference and Symmetric Difference
+- Object-Oriented Programming
+  - Classes
+  - Objects
+  - Method Calls
+  - Inheritance and Its Types
+  - Overloading
+  - Overriding
+  - Data Hiding
+  - Operator Overloading
+- File Handling
+  - Opening Files \*
+  - Reading Files \*
+  - Writing Files \*
+  - Editing Files \*
+  - Working with different extensions of file \*
+  - With Statements +
+- Exception Handling
+  - Common Exceptions
+  - Exception Handling
+  - Try +
+  - Except +
+  - Try except else
+  - Finally
+  - Raising exceptions
+  - Assertion
+- Modules & Packages
+  - Different types of modules +
+  - Inbuilt modules
+  - OS \*
+  - Sys \*
+  - Statistics +
+  - Math \*
+  - String \*
+  - Random +
+  - Create your own module \*
+  - Building Packages \*
+- Data Structures
+  - Stack +
+  - Queue +
+  - Linked Lists +
+  - Sorting +
+  - Searching
+  - Linear Search +
+  - Binary Search +
+- Higher-Order Functions
+  - Function as a parameter \*
+  - Function as a return value \*
+  - Closures \*
+  - Decorators
+  - Map, Filter, Reduce Functions +
+- Python Web Scrapping
+  - Understanding BeautifulSoup
+  - Extracting Data from websites
+  - Extracting Tables
+  - Data in JSON format
+- Virtual Environment
+  - Virtual Environment Setup ~
+- Web Application Project
+  - Flask
+  - Project Structure
+  - Routes
+  - Templates
+  - Navigations
+- Deployment
+  - Heroku Deployment
+  - Flask Integration
+- Python with MongoDB Database
+  - SQL and NoSQL
+  - Connecting to MongoDB URI
+  - Flask application and MongoDB integration
+  - CRUD Operations
+  - Find
+  - Delete
+  - Drop
+- Building API
+  - API (Application Programming Interface)
+  - Building API
+  - Structure of an API
+  - PUT
+  - POST
+  - DELETE
+  - Using Postman
+- Statistics with NumPy
+  - Statistics +
+  - NumPy basics \*
+  - Working with Matrix \*
+  - Linear Algebra operations \* !
+  - Descriptive Statistics +
+- Data Analysis with Pandas
+  - Data Analysis basics
+  - Dataframe operations
+  - Working with 2-dimensional data
+  - Data Cleaning
+  - Data Grouping
+- Data Visualization with Matplotlib
+  - Matplotlib Basics \*
+  - Working with plots \*
+  - Plot \*
+  - Pie Chart \*
+  - Histogram \*
+- Library For Computer Vision
+  - tensorflow !
+  - shutil, glob, os.path \*
+  - keras !
+  - cv2 !
+  - PIL \*
