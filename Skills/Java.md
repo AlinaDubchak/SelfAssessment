@@ -55,7 +55,7 @@
   - final class: 🎓 known
   - final method: 🎓 known
   - final property: 🎓 known
-  - Nested class
+  - Nested class: 🎓 known
   - Inner class \: 🖐️ used
   - public \: 🖐️ used
   - private \: 🖐️ used
@@ -84,16 +84,16 @@
   - Serialization
   - Working with files
 - Multithreading
-  - Thread \: 🖐️ used
+  - Thread \: 🙋 explained
   - Runnable: 🎓 known
-  - Semaphore \: 🖐️ used
-  - Lock \: 🖐️ used
-  - Atomic types and operations \: 🖐️ used
-  - Monitors \: 🖐️ used
-  - synchronized methods \: 🖐️ used
-  - synchronized blocks \: 🖐️ used
+  - Semaphore \: 🙋 explained
+  - Lock \: 🙋 explained
+  - Atomic types and operations \: 🙋 explained
+  - Monitors \: 🙋 explained
+  - synchronized methods \: 🙋 explained
+  - synchronized blocks \: 🙋 explained
   - Synchronized collections: 🎓 known
-  - Dead locks, race conditions \: 🖐️ used
+  - Dead locks, race conditions \: 🙋 explained
 - Date/Time API
 - Spring Framework
   - Spring Core
