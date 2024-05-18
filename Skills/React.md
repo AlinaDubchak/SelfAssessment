@@ -17,11 +17,11 @@
   - The Data Flows Down
   - Handling Events
   - Prevent from Rendering
-  - Multiple Rendering +
+  - Multiple Rendering: 🎓 known
   - Controlled Components
   - Lifting State Up
   - Composition vs Inheritance: 🎓 known
-  - Code-Splitting +
+  - Code-Splitting: 🎓 known
   - Bundling
   - React.lazy
   - Suspense and fallbacks
@@ -34,7 +34,7 @@
   - Forwarding refs: 🎓 known
   - Fragments
   - Higher-Order Component
-  - Portals +
+  - Portals: 🎓 known
   - Profiler
   - Render Props: 🎓 known
   - Strict Mode: 🎓 known
@@ -55,17 +55,17 @@
   - useImperativeHandle
   - Custom Hooks: 🎓 known
 - Antipatterns
-  - Props drilling +
-  - Props Plowing +
-  - Props mutation +
-  - setState() is async +
-  - Nested components +
+  - Props drilling: 🎓 known
+  - Props Plowing: 🎓 known
+  - Props mutation: 🎓 known
+  - setState() is async: 🎓 known
+  - Nested components: 🎓 known
   - Huge component trees
   - Passing all props with spread everywhere
   - Passing too much information to components
   - Overoptimizing performance
   - Async functions in useEffect
-  - Multiple useState hooks +
+  - Multiple useState hooks: 🎓 known
 - Environment
   - React Router: \: 🖐️ used
   - React Redux: \: 🖐️ used
@@ -79,7 +79,7 @@
   - Styled Components
   - Next
   - Vite: 🎓 known
-  - Webpack ~
+  - Webpack: 👂 heard
   - Hook form
   - React DevTools: 🎓 known
   - Redux DevTools: 🎓 known

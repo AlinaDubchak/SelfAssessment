@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-597 / 931 / 1052-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-608 / 942 / 1052-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-597 / 931 / 1052-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-608 / 942 / 1052-FF3300?style=flat-square)](https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-597 / 931 / 1052-FF3300?style=flat-square"></a>
+<a href="https://github.com/AlinaDubchak/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-608 / 942 / 1052-FF3300?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -69,7 +69,7 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Enum classes | `0` | `0` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Class Object | `2` | `2` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Packages | `0` | `0` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Object-Oriented Programming (OOP) | `16` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Object-Oriented Programming (OOP) | `17` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Generics | `1` | `9` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functional programming | `0` | `4` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Input/Output | `1` | `4` |
@@ -77,10 +77,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Date/Time API | `0` | `0` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Spring Framework | `0` | `5` |
 | [React](/Skills/React.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `18` | `38` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Main concepts | `21` | `38` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Hooks | `9` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `0` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `13` | `19` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Antipatterns | `6` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `14` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; React Native | `0` | `6` |
 | [Python](/Skills/Python.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Introduction and Basics | `6` | `6` |
