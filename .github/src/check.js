@@ -51,7 +51,7 @@ const UNITS = [
   'Architecture',
   'Java',
   'React',
-
+  'Python',
 
 ];
 
